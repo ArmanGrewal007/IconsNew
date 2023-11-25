@@ -118,7 +118,9 @@ function parseShortNames(names, theme = 'dark') {
 // This is the main request handlind function, it parses the request URL and
 // extracts parameters, then calls generateSvg() to generate the SVG markup
 async function handleRequest(request) {
-    // const { pathname, query } = new URL(request.url);
+    // const fullUrl = `${request.protocol}://${request.get('host')}${request.originalUrl}`;
+    // const { pathname, query } = new URL(fullUrl);
+
     const { pathname, query } = url.parse(request.url);
 
     const path = pathname.replace(/^\/|\/$/g, '');
@@ -142,7 +144,7 @@ async function handleRequest(request) {
 
         let iconShortNames = [];
         if (iconParam === 'all') iconShortNames = iconNameList;
-        else iconShortNames = iconParam.split(',');
+        else iconShortNames = iconParam.split(/,|%2C/);
 
         const iconNames = parseShortNames(iconShortNames, theme || undefined);
         if (!iconNames)
@@ -176,6 +178,8 @@ app.get('/', (req, res) => {
 
 app.get('*', async (req, res) => {
     try {
+        // const { pathname, query } = url.parse(req.url);
+        // res.send(query);
         const response = await handleRequest(req);
         res.status(response.status).send(await response.text());
     } catch (err) {
