@@ -127,7 +127,7 @@ async function handleRequest(request) {
     if (path === 'icons' || path === 'icon') {
         // const iconParam = query.get('i') || query.get('icons');
         const iconParam = query.includes('i=') ? query.split('i=')[1] : null;
-        if (!iconParam)
+        if (!iconParam || !query)
             return new Response("You didn't specify any icons!", { status: 400 });
         // const theme = query.get('t') || query.get('theme');
         const theme = query.includes('t=') ? query.split('t=')[1] : null;
