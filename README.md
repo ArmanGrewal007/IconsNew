@@ -1,4 +1,6 @@
-# IconsNew
+<div align="center">
+    <h2>IconsNew</h2>
+</div>
 
 This site was forked from skillicons <br>
 He used Webworkers, which I am not aware of <br>
