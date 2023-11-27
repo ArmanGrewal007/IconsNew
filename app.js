@@ -176,6 +176,10 @@ app.get('/', (req, res) => {
     res.send('Give the path /icon?i="<icon_name>"');
 })
 
+app.get('/favicon.ico', (req, res) => {
+    res.status(204).end();
+});
+
 app.get('*', async (req, res) => {
     try {
         // const { pathname, query } = url.parse(req.url);
