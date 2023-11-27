@@ -40,5 +40,5 @@ Test icon with <a href="https://icons-theta.vercel.app/icons?i=es,lg,kb,&perline
 
 
 
-<img src="https://icons-theta.vercel.app/icons?i=react,js,redis,elasticsearch&perline=2">
+<img src="https://icons-theta.vercel.app/icons?i=react,js,redis,elasticsearch,&perline=2">
 
