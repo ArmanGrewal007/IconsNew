@@ -13,7 +13,7 @@ Test icon with <a href="https://icons-theta.vercel.app/icons?i=es,lg,kb,&perline
 You can add any icons from [Icons list](#icons-list) --> 
 <table>
     <tr>
-        <td><code>?i=es,lg,kb,</code> <br> <pre lang="html"><code>&lt;img src="https://icons-theta.vercel.app/icons?i=es,lg,kb"></code></pre></td>
+        <td><pre lang="html"><code>&lt;img src="https://icons-theta.vercel.app/icons?i=es,lg,kb"></code></pre></td>
         <td><img src="https://icons-theta.vercel.app/icons?i=es,lg,kb"></td>
     </tr>
 </table>
