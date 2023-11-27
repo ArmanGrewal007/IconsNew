@@ -10,20 +10,18 @@ Test icon with <a href="https://icons-theta.vercel.app/icons?i=es,lg,kb,&perline
 <img src="https://icons-theta.vercel.app/icons?i=react,js,redis,elasticsearch,&perline=2">
 
 ---------------------
-## Adding icons
+## Adding icons: You can add any icons from <a href="#icons-list">Icons list
 
 <table>
-    <tr><th colspan="2">You can add any icons from <a href="#icons-list">Icons list</a></th>
     <tr>
         <td><pre lang="html"><code>&lt;img src="https://icons-theta.vercel.app/icons?i=es,lg,kb"></code></pre></td>
         <td><img src="https://icons-theta.vercel.app/icons?i=es,lg,kb,"></td>
     </tr>
 </table>
 
-## Setting icons perline 
+## Setting icons perline: You can also add a <code>perline</code> query and icons will be adjusted according to that
 
 <table>
-    <tr><th colspan="2">You can also add a <code>perline</code> query and icons will be adjusted according to that</th>
     <tr>
         <td><pre lang="html"><code>&lt;img src="https://icons-theta.vercel.app/icons?i=es,lg,kb"></code></pre></td>
         <td><img src="https://icons-theta.vercel.app/icons?i=es,lg,kb,&perline=1"></td>
