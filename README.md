@@ -138,7 +138,7 @@ Test icon with <a href="https://icons-theta.vercel.app/icons?i=es,lg,kb,&perline
         <td> <img src="./public/icons/Eclipse-Dark.svg" width="48"> </td>
     </tr>
     <tr>
-        <td> <code>elastic</code> </td>
+        <td> <code>elasticsearch</code> </td>
         <td> <img src="./public/icons/Elasticsearch-Dark.svg" width="48"></td>
         <td> <code>electron</code> </td>
         <td> <img src="./public/icons/Electron.svg" width="48"> </td>
