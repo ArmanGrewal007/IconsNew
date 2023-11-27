@@ -36,6 +36,5 @@ app.listen(port, () => {
 16. But still when I put that url in <img> tag, we get bad response. It says we are not returning .svg (Probably because we are returing svg in app.js to api/index.js to img tag, idk but I'm tired so won't continue this shit)
 
 
-Test icon with icons-theta.vercel.app/icons?i=es
-
+Test icon with <a href="https://icons-theta.vercel.app/icons?i=es,lg,kb,&perline=1">https://icons-theta.vercel.app/icons?i=es,lg,kb,&perline=1</a> <br>
 <img src="https://icons-theta.vercel.app/icons?i=es,lg,kb,&perline=1">
