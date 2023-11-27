@@ -2,8 +2,7 @@
     <h1>IconsNew</h1>
 </div>
 
-[![Vercel Status](https://img.shields.io/endpoint?url=https://icons-theta.vercel.com/my-project/deployments/badge)](https://vercel.com/my-project/deployments)
-
+[Contribute❤️](contributing.md)
 
 Test icon with <a href="https://icons-theta.vercel.app/icons?i=es,lg,kb,&perline=1">https://icons-theta.vercel.app/icons?i=es,lg,kb,&perline=1</a> <br>
 
