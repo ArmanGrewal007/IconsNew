@@ -18,6 +18,18 @@ Test icon with <a href="https://icons-theta.vercel.app/icons?i=es,lg,kb,&perline
     </tr>
 </table>
 
+## Changing themes: Can specify *light* or *dark*
+<table>
+    <tr>
+        <td><pre lang="html"><code>&lt;img src="https://icons-theta.vercel.app/icons?i=es,lg,kb,&t=light"></code></pre></td>
+        <td><img src="https://icons-theta.vercel.app/icons?i=es,lg,kb,&t=light"></td>
+    </tr>
+    <tr>
+        <td><pre lang="html"><code>&lt;img src="https://icons-theta.vercel.app/icons?i=es,lg,kb,&t=dark"></code></pre></td>
+        <td><img src="https://icons-theta.vercel.app/icons?i=es,lg,kb,&t=dark"></td>
+    </tr>
+</table>
+
 ## Setting number of icons perline:
 <table>
     <tr>
