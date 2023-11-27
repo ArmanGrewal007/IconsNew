@@ -84,7 +84,7 @@ function generateSvg(iconNames, perLine) {
     const scaledHeight = height * SCALE;
     const scaledWidth = length * SCALE;
 
-    return `
+    const svg =  `
   <svg width="${scaledWidth}" height="${scaledHeight}" viewBox="0 0 ${length} ${height}" fill="none" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1">
     ${iconSvgList
             .map(
@@ -99,6 +99,8 @@ function generateSvg(iconNames, perLine) {
             .join(' ')}
   </svg>
   `;
+//   console.log(svg)
+  return svg
 }
 
 // This function takes a list of icon shortnames and a theme, and returns a list of
@@ -185,7 +187,7 @@ app.get('*', async (req, res) => {
         // const { pathname, query } = url.parse(req.url);
         // res.send(query);
         const response = await handleRequest(req);
-        res.status(response.status).send(await response.text());
+        res.status(response.status).header('Content-Type', 'image/svg+xml').send(await response.text());
     } catch (err) {
         res.status(500).send(err.stack);
     }
