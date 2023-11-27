@@ -37,4 +37,8 @@ app.listen(port, () => {
 
 
 Test icon with <a href="https://icons-theta.vercel.app/icons?i=es,lg,kb,&perline=1">https://icons-theta.vercel.app/icons?i=es,lg,kb,&perline=1</a> <br>
-<img src="https://icons-theta.vercel.app/icons?i=es,lg,kb,&perline=1">
+
+
+
+<img src="https://icons-theta.vercel.app/icons?i=react,js,&perline=4">
+
