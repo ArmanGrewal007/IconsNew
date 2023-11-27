@@ -11,7 +11,6 @@ Test icon with <a href="https://icons-theta.vercel.app/icons?i=es,lg,kb,&perline
 
 ---------------------
 ## Adding icons: You can add any icons from <a href="#icons-list">Icons list
-
 <table>
     <tr>
         <td><pre lang="html"><code>&lt;img src="https://icons-theta.vercel.app/icons?i=es,lg,kb"></code></pre></td>
@@ -19,8 +18,7 @@ Test icon with <a href="https://icons-theta.vercel.app/icons?i=es,lg,kb,&perline
     </tr>
 </table>
 
-## Setting icons perline: You can also add a <code>perline</code> query and icons will be adjusted according to that
-
+## Setting number of icons perline:
 <table>
     <tr>
         <td><pre lang="html"><code>&lt;img src="https://icons-theta.vercel.app/icons?i=es,lg,kb"></code></pre></td>
