@@ -20,8 +20,7 @@ Test icon with <a href="https://icons-theta.vercel.app/icons?i=es,lg,kb,&perline
     </tr>
 </table>
 
----------------------
-## Setting icon perline 
+## Setting icons perline 
 
 <table>
     <tr><th colspan="2">You can also add a <code>perline</code> query and icons will be adjusted according to that</th>
