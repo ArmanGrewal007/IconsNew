@@ -20,21 +20,21 @@ with open("output.html", "w") as outputfile:
         if i+2 < len(base_lst): # Only add if within the bounds
             print(f"adding {i}, {i+1}, {i+2}")
             outputfile.write(f'<tr> \
-                    <td><code>{base_lst[i]}</code></td>  <td><img src="./public/icons/{base_lst[i]}-Dark.svg" width="48"></td> \
-                    <td><code>{base_lst[i+1]}</code></td><td><img src="./public/icons/{base_lst[i+1]}-Dark.svg" width="48"></td> \
-                    <td><code>{base_lst[i+2]}</code></td><td><img src="./public/icons/{base_lst[i+2]}-Dark.svg" width="48"></td> \
+                    <td><code>{base_lst[i].lower()}</code></td>  <td><img src="./public/icons/{base_lst[i]}-Dark.svg" width="48"></td> \
+                    <td><code>{base_lst[i+1].lower()}</code></td><td><img src="./public/icons/{base_lst[i+1]}-Dark.svg" width="48"></td> \
+                    <td><code>{base_lst[i+2].lower()}</code></td><td><img src="./public/icons/{base_lst[i+2]}-Dark.svg" width="48"></td> \
                             </tr>\n')
     # Adding the last line (either 1 element or two elements)
     items_in_last_line = len(base_lst) % 3
     if items_in_last_line == 1:
         print(f"adding {len(base_lst)-1}")
         outputfile.write(f'<tr> \
-                <td><code>{base_lst[-1]}</code></td>  <td><img src="./public/icons/{base_lst[-1]}-Dark.svg" width="48"></td> \
+                <td><code>{base_lst[-1].lower()}</code></td>  <td><img src="./public/icons/{base_lst[-1]}-Dark.svg" width="48"></td> \
                 </tr>\n')
     elif items_in_last_line == 2:
         print(f"adding {len(base_lst)-2}, {len(base_lst)-1}")
         outputfile.write(f'<tr> \
-                <td><code>{base_lst[-2]}</code></td>  <td><img src="./public/icons/{base_lst[-2]}-Dark.svg" width="48"> \
-                </td><code><td>{base_lst[-1]}</code></td>  <td><img src="./public/icons/{base_lst[-1]}-Dark.svg" width="48"></td> \
+                <td><code>{base_lst[-2].lower()}</code></td>  <td><img src="./public/icons/{base_lst[-2]}-Dark.svg" width="48"> \
+                </td><code><td>{base_lst[-1].lower()}</code></td>  <td><img src="./public/icons/{base_lst[-1]}-Dark.svg" width="48"></td> \
                 </tr>\n')
     outputfile.write('</table>')
