@@ -34,3 +34,7 @@ app.listen(port, () => {
 14. And debugged another issue where we were splitting on basis of ',' (on local we got localhost:3000/icons?i=es,lg) but on vercel we needed to split using '%2C' (on vercel we got localhost:3000/icons?i=es%2Clg)
 15. Everything took me my whole saturday (Nov 25, 2023), URL also works (provided in side)
 16. But still when I put that url in <img> tag, we get bad response. It says we are not returning .svg (Probably because we are returing svg in app.js to api/index.js to img tag, idk but I'm tired so won't continue this shit)
+
+
+Test icon with <a href="https://icons-theta.vercel.app/icons?i=es,lg,kb,&perline=1">https://icons-theta.vercel.app/icons?i=es,lg,kb,&perline=1</a> <br>
+<img src="https://icons-theta.vercel.app/icons?i=es,lg,kb,&perline=1">
