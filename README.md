@@ -2,13 +2,24 @@
     <h1>IconsNew</h1>
 </div>
 
+[![Vercel Status](https://img.shields.io/endpoint?url=https://icons-theta.vercel.com/my-project/deployments/badge)](https://vercel.com/my-project/deployments)
 
 
 Test icon with <a href="https://icons-theta.vercel.app/icons?i=es,lg,kb,&perline=1">https://icons-theta.vercel.app/icons?i=es,lg,kb,&perline=1</a> <br>
 
 <img src="https://icons-theta.vercel.app/icons?i=react,js,redis,elasticsearch,&perline=2">
 
+## Adding icons
+You can add any icons from [Icons list](#icons-list) --> 
+<table>
+    <tr>
+        <td><code>?i=es,lg,kb,</code> <br> <pre lang="html"><code><img src="https://icons-theta.vercel.app/icons?i=es,lg,kb"></code></pre></td>
+        <td><img src="https://icons-theta.vercel.app/icons?i=es,lg,kb"></td>
+    </tr>
+</table>
 
+
+# Icons list
 <table>
     <tr>
         <th>Name</th>
