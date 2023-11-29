@@ -62,6 +62,7 @@ const shortNames = {
     lg: 'logstash',
     msd: 'msdos',
     nj: 'neo4j',
+    gmp: 'gimp',
 };
 // A list of icons with themes (light/dark)
 const themedIcons = [
