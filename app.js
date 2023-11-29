@@ -61,6 +61,7 @@ const shortNames = {
     kb: 'kibana',
     lg: 'logstash',
     msd: 'msdos',
+    nj: 'neo4j',
 };
 // A list of icons with themes (light/dark)
 const themedIcons = [
