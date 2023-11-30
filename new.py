@@ -15,7 +15,7 @@ base_lst = sorted(list(base_set))
 complete_lines = len(base_lst) // 3
 
 with open("output.html", "w") as outputfile:
-    outputfile.write(f'<table> <tr><th colspan="5" align="center"> {len(base_lst)} icons and counting... </th></tr>')
+    outputfile.write(f'<table> <tr><th colspan="6" align="center"> {len(base_lst)} icons and counting... </th></tr>')
     outputfile.write('<tr> <th>Name</th><th>Icon</th> <th>Name</th><th>Icon</th> <th>Name</th><th>Icon</th>  </tr>')
     for i in range(0, len(base_lst), 3):
         if i+2 < len(base_lst): # Only add if within the bounds
