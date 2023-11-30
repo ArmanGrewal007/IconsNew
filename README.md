@@ -1,6 +1,6 @@
 <div align="center">
     <h1>IconsNew</h1>
-    <a href="contributing.md">Contribution Guidelines❤️</a>
+    <a href="contributing.md">Contribution Guidelines</a>❤️
 </div>
 
 
