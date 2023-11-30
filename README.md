@@ -38,6 +38,9 @@
 # Icons list
 <table>
     <tr>
+        <th colspan="5" align="center"> 203 icons and counting... </th>
+    </tr>
+    <tr>
         <th>Name</th>
         <th>Icon</th>
         <th>Name</th>
