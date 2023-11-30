@@ -227,7 +227,7 @@
         <td><code>gherkin</code></td>
         <td><img src="./public/icons/Gherkin-Dark.svg" width="48"></td>
         <td><code>gimp</code></td>
-        <td><img src="./public/icons/Gimp-Dark.svg" width="48"></td>
+        <td><img src="https://icons-theta.vercel.app/icons?i=gmp" width="48"></td>
     </tr>
     <tr>
         <td><code>git</code></td>
