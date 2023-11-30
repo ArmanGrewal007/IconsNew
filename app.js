@@ -63,6 +63,7 @@ const shortNames = {
     msd: 'msdos',
     nj: 'neo4j',
     gmp: 'gimp',
+    pod: 'podman',
 };
 // A list of icons with themes (light/dark)
 const themedIcons = [
