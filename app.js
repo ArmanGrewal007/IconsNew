@@ -57,6 +57,7 @@ const shortNames = {
     rxjs: 'reactivex',
     rxjava: 'reactivex',
     ghactions: 'githubactions',
+    // Theses were added by me
     es: 'elasticsearch',
     kb: 'kibana',
     lg: 'logstash',
@@ -64,7 +65,11 @@ const shortNames = {
     nj: 'neo4j',
     gmp: 'gimp',
     pod: 'podman',
-    ub: 'ubuntu'
+    grunt: 'gruntjs',
+    debz: 'debezium',
+    ub: 'ubuntu',
+    rhel: 'rhel',
+    deb: 'debian',
 };
 // A list of icons with themes (light/dark)
 const themedIcons = [
