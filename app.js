@@ -71,6 +71,7 @@ const shortNames = {
     rhel: 'rhel',
     deb: 'debian',
     cent: 'centos',
+    arch: 'archlinux',
     app: 'apple',
     and: 'android',
 };
