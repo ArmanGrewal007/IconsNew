@@ -63,13 +63,14 @@ const shortNames = {
     lg: 'logstash',
     msd: 'msdos',
     nj: 'neo4j',
-    gmp: 'gimp',
-    pod: 'podman',
+    gmp: 'gimp', // change to #F4F2ED
+    pod: 'podman', // change to #F4F2ED
     grunt: 'gruntjs',
     debz: 'debezium',
-    ub: 'ubuntu',
+    ub: 'ubuntu', // change to #F4F2ED
     rhel: 'rhel',
     deb: 'debian',
+    cent: 'centos',
 };
 // A list of icons with themes (light/dark)
 const themedIcons = [

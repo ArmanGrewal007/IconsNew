@@ -1,5 +1,5 @@
 <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="256" height="256" viewBox="0 0 256 256" version="1.1">
-<rect width="256" height="256" fill="#ffff" rx="60" />
+<rect width="256" height="256" fill="#F4F2ED" rx="60" />
 <defs>
 <clipPath id="clip1">
 <path d="M 25 25 L 221 25 L 221 84 L 25 84 Z M 25 25 "/>

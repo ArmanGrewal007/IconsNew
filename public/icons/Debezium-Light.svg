@@ -1,6 +1,6 @@
 <svg width="256px" height="256px" viewBox="0 0 256 256" xmlns="http://www.w3.org/2000/svg"
     xmlns:svg="http://www.w3.org/2000/svg">
-    <rect width="256" height="256" fill="#fff" rx="60" id="rect1" />
+    <rect width="256" height="256" fill="#F4F2ED" rx="60" id="rect1" />
     <defs id="defs10">
         <linearGradient id="linear0" gradientUnits="userSpaceOnUse" x1="9.6501" y1="55.4537" x2="55.733" y2="9.3708"
             gradientTransform="matrix(4,0,0,-4,0,260.376)">

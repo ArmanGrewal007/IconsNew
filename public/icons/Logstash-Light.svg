@@ -1,5 +1,5 @@
 <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="256px" height="256px" viewBox="0 0 256 256" version="1.1">
-    <rect width="256" height="256" fill="#ffff" rx="60" />
+    <rect width="256" height="256" fill="#F4F2ED" rx="60" />
 
 <g id="surface1">
 <path style=" stroke:none;fill-rule:nonzero;fill:rgb(95.294118%,74.117647%,9.803922%);fill-opacity:1;" d="M 131.519531 134.078125 L 49.921875 134.078125 L 49.921875 40 L 74.558594 40 C 106.238281 40 131.519531 65.601562 131.519531 96.960938 Z M 131.519531 134.078125 "/>
