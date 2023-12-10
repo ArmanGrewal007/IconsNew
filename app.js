@@ -64,6 +64,7 @@ const shortNames = {
     nj: 'neo4j',
     gmp: 'gimp',
     pod: 'podman',
+    ub: 'ubuntu'
 };
 // A list of icons with themes (light/dark)
 const themedIcons = [
