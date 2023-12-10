@@ -39,7 +39,7 @@
 
 <table>
     <tr>
-        <th colspan="6" align="center"> 203 icons and counting... </th>
+        <th colspan="6" align="center"> 204 icons and counting... </th>
     </tr>
     <tr>
         <th>Name</th>
@@ -542,52 +542,55 @@
         <td><img src="./public/icons/Twitter-Dark.svg" width="48"></td>
         <td><code>typescript</code></td>
         <td><img src="./public/icons/TypeScript-Dark.svg" width="48"></td>
-        <td><code>unity</code></td>
-        <td><img src="./public/icons/Unity-Dark.svg" width="48"></td>
+        <td><code>ubuntu</code></td>
+        <td><img src="./public/icons/Ubuntu-Dark.svg" width="48"></td>
     </tr>
     <tr>
+        <td><code>unity</code></td>
+        <td><img src="./public/icons/Unity-Dark.svg" width="48"></td>
         <td><code>unrealengine</code></td>
         <td><img src="./public/icons/UnrealEngine-Dark.svg" width="48"></td>
         <td><code>v</code></td>
         <td><img src="./public/icons/V-Dark.svg" width="48"></td>
-        <td><code>vim</code></td>
-        <td><img src="./public/icons/VIM-Dark.svg" width="48"></td>
     </tr>
     <tr>
+        <td><code>vim</code></td>
+        <td><img src="./public/icons/VIM-Dark.svg" width="48"></td>
         <td><code>vscode</code></td>
         <td><img src="./public/icons/VSCode-Dark.svg" width="48"></td>
         <td><code>vala</code></td>
         <td><img src="./public/icons/Vala-Dark.svg" width="48"></td>
-        <td><code>vercel</code></td>
-        <td><img src="./public/icons/Vercel-Dark.svg" width="48"></td>
     </tr>
     <tr>
+        <td><code>vercel</code></td>
+        <td><img src="./public/icons/Vercel-Dark.svg" width="48"></td>
         <td><code>visualstudio</code></td>
         <td><img src="./public/icons/VisualStudio-Dark.svg" width="48"></td>
         <td><code>vite</code></td>
         <td><img src="./public/icons/Vite-Dark.svg" width="48"></td>
-        <td><code>vuejs</code></td>
-        <td><img src="./public/icons/VueJS-Dark.svg" width="48"></td>
     </tr>
     <tr>
+        <td><code>vuejs</code></td>
+        <td><img src="./public/icons/VueJS-Dark.svg" width="48"></td>
         <td><code>webassembly</code></td>
         <td><img src="./public/icons/WebAssembly-Dark.svg" width="48"></td>
         <td><code>webflow</code></td>
         <td><img src="./public/icons/Webflow-Dark.svg" width="48"></td>
-        <td><code>webpack</code></td>
-        <td><img src="./public/icons/Webpack-Dark.svg" width="48"></td>
     </tr>
     <tr>
+        <td><code>webpack</code></td>
+        <td><img src="./public/icons/Webpack-Dark.svg" width="48"></td>
         <td><code>windicss</code></td>
         <td><img src="./public/icons/WindiCSS-Dark.svg" width="48"></td>
         <td><code>wordpress</code></td>
         <td><img src="./public/icons/Wordpress-Dark.svg" width="48"></td>
-        <td><code>workers</code></td>
-        <td><img src="./public/icons/Workers-Dark.svg" width="48"></td>
     </tr>
     <tr>
+        <td><code>workers</code></td>
+        <td><img src="./public/icons/Workers-Dark.svg" width="48"></td>
         <td><code>xd</code></td>
-        <td><img src="./public/icons/XD-Dark.svg" width="48"> </td><code><td>zig</code></td>
+        <td><img src="./public/icons/XD-Dark.svg" width="48"></td>
+        <td><code>zig</code></td>
         <td><img src="./public/icons/Zig-Dark.svg" width="48"></td>
     </tr>
 </table>
