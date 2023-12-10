@@ -71,6 +71,8 @@ const shortNames = {
     rhel: 'rhel',
     deb: 'debian',
     cent: 'centos',
+    app: 'apple',
+    and: 'android',
 };
 // A list of icons with themes (light/dark)
 const themedIcons = [
