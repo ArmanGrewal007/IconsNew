@@ -18,7 +18,8 @@ You can add any icons from <a href="#icons-list">Icons list (must add a trainlin
 
 <br> 
 
-## 🎨 Changing themes: Can specify *light* or *dark* (must add a trainling comma)
+## 🎨 Changing themes: 
+Can specify *light* or *dark* (must add a trainling comma)
 <table>
     <tr>
         <td><pre lang="html"><code>&lt;img src="https://icons-theta.vercel.app/icons?i=es,lg,kb,&t=light"></code></pre></td>
@@ -32,7 +33,8 @@ You can add any icons from <a href="#icons-list">Icons list (must add a trainlin
 
 <br> 
 
-## 🔍 Setting number of icons perline: (must add a trainling comma)
+## 🔍 Setting number of icons perline: 
+(must add a trainling comma)
 <table>
     <tr>
         <td><pre lang="html"><code>&lt;img src="https://icons-theta.vercel.app/icons?i=es,lg,kb,&t=light&perline=1"></code></pre></td>
