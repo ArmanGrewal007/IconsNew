@@ -38,7 +38,7 @@ Can specify *light* or *dark* (must add a trainling comma)
 <table>
     <tr>
         <td><pre lang="html"><code>&lt;img src="https://icons-theta.vercel.app/icons?i=es,lg,kb,&t=light&perline=1"></code></pre></td>
-        <td><img src="https://icons-theta.vercel.app/icons?i=es,lg,kb,&perline=1"></td>
+        <td><img src="https://icons-theta.vercel.app/icons?i=es,lg,kb,&t=light&perline=1"></td>
     </tr>
 </table>
 
