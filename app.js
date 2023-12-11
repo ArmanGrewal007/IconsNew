@@ -22,6 +22,7 @@ const shortNames = {
     ts: 'typescript',
     py: 'python',
     tailwind: 'tailwindcss',
+    insta: 'instagram',
     vue: 'vuejs',
     nuxt: 'nuxtjs',
     go: 'golang',
@@ -74,6 +75,7 @@ const shortNames = {
     arch: 'archlinux',
     app: 'apple',
     and: 'android',
+    gentoo: 'gentoo',
 };
 // A list of icons with themes (light/dark)
 const themedIcons = [
