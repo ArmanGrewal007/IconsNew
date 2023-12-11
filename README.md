@@ -2,6 +2,9 @@
     <h1>IconsNew</h1>
     <a href="contributing.md">Contribution Guidelines</a>❤️
     <h3><i>Adding a grid of your favourite icons using just ☝️ URL query!</i></h3>
+    <br><br>
+    <img src="https://media.giphy.com/media/qqJiWx3tggnExIN2re/giphy.gif">
+    <br><br>
 </div>
 
 
