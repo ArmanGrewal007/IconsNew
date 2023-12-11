@@ -15,6 +15,8 @@
     </tr>
 </table>
 
+<br> 
+
 ## 🎨 Changing themes: Can specify *light* or *dark* (must add a trainling comma)
 <table>
     <tr>
@@ -27,6 +29,7 @@
     </tr>
 </table>
 
+<br> 
 
 ## 🔍 Setting number of icons perline: (must add a trainling comma)
 <table>
