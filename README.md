@@ -1,6 +1,7 @@
 <div align="center">
     <h1>IconsNew</h1>
     <a href="contributing.md">Contribution Guidelines</a>❤️
+    <h2>Adding your favourite icons using just one URL query!</h2>
 </div>
 
 
