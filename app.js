@@ -58,7 +58,7 @@ const shortNames = {
     rxjs: 'reactivex',
     rxjava: 'reactivex',
     ghactions: 'githubactions',
-    // Theses were added by me
+    // Theses were added by me (n - 62 + 1)
     es: 'elasticsearch',
     kb: 'kibana',
     lg: 'logstash',
@@ -76,6 +76,8 @@ const shortNames = {
     app: 'apple',
     and: 'android',
     gentoo: 'gentoo',
+    kaggle: 'kaggle',
+    brew: 'homebrew'
 };
 // A list of icons with themes (light/dark)
 const themedIcons = [
