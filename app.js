@@ -77,7 +77,10 @@ const shortNames = {
     and: 'android',
     gentoo: 'gentoo',
     kaggle: 'kaggle',
-    brew: 'homebrew'
+    brew: 'homebrew',
+    influx: 'influxdb',
+    terra: 'terraform',
+    travis: 'travisci'
 };
 // A list of icons with themes (light/dark)
 const themedIcons = [
