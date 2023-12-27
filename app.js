@@ -80,7 +80,8 @@ const shortNames = {
     brew: 'homebrew',
     influx: 'influxdb',
     terra: 'terraform',
-    travis: 'travisci'
+    travis: 'travisci',
+    powerbi: 'powerbi',
 };
 // A list of icons with themes (light/dark)
 const themedIcons = [

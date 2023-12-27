@@ -1,0 +1,32 @@
+<svg viewBox="0 0 256 256" width="256px" height="256px" xmlns="http://www.w3.org/2000/svg"
+    xmlns:svg="http://www.w3.org/2000/svg">
+    <rect width="256" height="256" fill="#F2F4ED" rx="60" id="rect1" />
+    <g id="surface1" transform="matrix(4.5435029,0,0,5.2576271,18.00678,2.4949155)">
+        <linearGradient id="zlT103XX9RAwCGfF9JpW0a" x1="32" x2="32" y1="3.947" y2="44.750999"
+            gradientUnits="userSpaceOnUse">
+            <stop offset=".006" stop-color="#ebb112" id="stop1" />
+            <stop offset="1" stop-color="#bb5c17" id="stop2" />
+        </linearGradient>
+        <path fill="url(#zlT103XX9RAwCGfF9JpW0a)"
+            d="m 27,44 h 10 c 1.105,0 2,-0.895 2,-2 V 6 C 39,4.895 38.105,4 37,4 H 27 c -1.105,0 -2,0.895 -2,2 v 36 c 0,1.105 0.895,2 2,2 z"
+            id="path2" style="fill:url(#zlT103XX9RAwCGfF9JpW0a)" />
+        <linearGradient id="zlT103XX9RAwCGfF9JpW0b" x1="22.089001" x2="26.009001" y1="13.14" y2="45.672001"
+            gradientUnits="userSpaceOnUse">
+            <stop offset="0" stop-color="#fed35d" id="stop3" />
+            <stop offset=".281" stop-color="#f6c648" id="stop4" />
+            <stop offset=".857" stop-color="#e3a513" id="stop5" />
+            <stop offset=".989" stop-color="#de9d06" id="stop6" />
+        </linearGradient>
+        <path fill="url(#zlT103XX9RAwCGfF9JpW0b)"
+            d="m 19,44 h 10 c 1.105,0 2,-0.895 2,-2 V 16 c 0,-1.105 -0.895,-2 -2,-2 H 19 c -1.105,0 -2,0.895 -2,2 v 26 c 0,1.105 0.895,2 2,2 z"
+            id="path6" style="fill:url(#zlT103XX9RAwCGfF9JpW0b)" />
+        <linearGradient id="zlT103XX9RAwCGfF9JpW0c" x1="9.8030005" x2="21.334999" y1="22.781" y2="43.658001"
+            gradientUnits="userSpaceOnUse">
+            <stop offset="0" stop-color="#ffd869" id="stop7" />
+            <stop offset=".983" stop-color="#ffdf26" id="stop8" />
+        </linearGradient>
+        <path fill="url(#zlT103XX9RAwCGfF9JpW0c)"
+            d="m 11,44 h 10 c 1.105,0 2,-0.895 2,-2 V 26 c 0,-1.105 -0.895,-2 -2,-2 H 11 c -1.105,0 -2,0.895 -2,2 v 16 c 0,1.105 0.895,2 2,2 z"
+            id="path8" style="fill:url(#zlT103XX9RAwCGfF9JpW0c)" />
+    </g>
+</svg>
