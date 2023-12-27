@@ -14,6 +14,10 @@ print(f"unique icons: {len(base_set)}")
 base_lst = sorted(list(base_set))
 complete_lines = len(base_lst) // 3
 
+# Remove .DS_Store if it exists
+if base_lst[0] == ".DS_Store":
+    base_lst.pop(0)
+
 with open("output.html", "w") as outputfile:
     outputfile.write(f'<table> <tr><th colspan="6" align="center"> {len(base_lst)} icons and counting... </th></tr>')
     outputfile.write('<tr> <th>Name</th><th>Icon</th> <th>Name</th><th>Icon</th> <th>Name</th><th>Icon</th>  </tr>')

@@ -82,6 +82,9 @@ const shortNames = {
     terra: 'terraform',
     travis: 'travisci',
     powerbi: 'powerbi',
+    tableau: 'tableau',
+    splunk: 'splunk',
+    excel: 'msexcel',
 };
 // A list of icons with themes (light/dark)
 const themedIcons = [
