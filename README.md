@@ -47,7 +47,7 @@ Can specify *light* or *dark* (must add a trainling comma)
 
 <table>
     <tr>
-        <th colspan="6" align="center"> 223 icons and counting... </th>
+        <th colspan="6" align="center"> 224 icons and counting... </th>
     </tr>
     <tr>
         <th>Name</th>
@@ -578,79 +578,80 @@ Can specify *light* or *dark* (must add a trainling comma)
         <td><img src="./public/icons/Symfony-Dark.svg" width="48"></td>
     </tr>
     <tr>
+        <td><code>systemverilog</code></td>
+        <td><img src="./public/icons/SystemVerilog-Dark.svg" width="48"></td>
         <td><code>tableau</code></td>
         <td><img src="./public/icons/Tableau-Dark.svg" width="48"></td>
         <td><code>tailwindcss</code></td>
         <td><img src="./public/icons/TailwindCSS-Dark.svg" width="48"></td>
-        <td><code>tauri</code></td>
-        <td><img src="./public/icons/Tauri-Dark.svg" width="48"></td>
     </tr>
     <tr>
+        <td><code>tauri</code></td>
+        <td><img src="./public/icons/Tauri-Dark.svg" width="48"></td>
         <td><code>tensorflow</code></td>
         <td><img src="./public/icons/TensorFlow-Dark.svg" width="48"></td>
         <td><code>terraform</code></td>
         <td><img src="./public/icons/Terraform-Dark.svg" width="48"></td>
-        <td><code>threejs</code></td>
-        <td><img src="./public/icons/ThreeJS-Dark.svg" width="48"></td>
     </tr>
     <tr>
+        <td><code>threejs</code></td>
+        <td><img src="./public/icons/ThreeJS-Dark.svg" width="48"></td>
         <td><code>travisci</code></td>
         <td><img src="./public/icons/TravisCI-Dark.svg" width="48"></td>
         <td><code>twitter</code></td>
         <td><img src="./public/icons/Twitter-Dark.svg" width="48"></td>
-        <td><code>typescript</code></td>
-        <td><img src="./public/icons/TypeScript-Dark.svg" width="48"></td>
     </tr>
     <tr>
+        <td><code>typescript</code></td>
+        <td><img src="./public/icons/TypeScript-Dark.svg" width="48"></td>
         <td><code>ubuntu</code></td>
         <td><img src="./public/icons/Ubuntu-Dark.svg" width="48"></td>
         <td><code>unity</code></td>
         <td><img src="./public/icons/Unity-Dark.svg" width="48"></td>
-        <td><code>unrealengine</code></td>
-        <td><img src="./public/icons/UnrealEngine-Dark.svg" width="48"></td>
     </tr>
     <tr>
+        <td><code>unrealengine</code></td>
+        <td><img src="./public/icons/UnrealEngine-Dark.svg" width="48"></td>
         <td><code>v</code></td>
         <td><img src="./public/icons/V-Dark.svg" width="48"></td>
         <td><code>vim</code></td>
         <td><img src="./public/icons/VIM-Dark.svg" width="48"></td>
-        <td><code>vscode</code></td>
-        <td><img src="./public/icons/VSCode-Dark.svg" width="48"></td>
     </tr>
     <tr>
+        <td><code>vscode</code></td>
+        <td><img src="./public/icons/VSCode-Dark.svg" width="48"></td>
         <td><code>vala</code></td>
         <td><img src="./public/icons/Vala-Dark.svg" width="48"></td>
         <td><code>vercel</code></td>
         <td><img src="./public/icons/Vercel-Dark.svg" width="48"></td>
-        <td><code>visualstudio</code></td>
-        <td><img src="./public/icons/VisualStudio-Dark.svg" width="48"></td>
     </tr>
     <tr>
+        <td><code>visualstudio</code></td>
+        <td><img src="./public/icons/VisualStudio-Dark.svg" width="48"></td>
         <td><code>vite</code></td>
         <td><img src="./public/icons/Vite-Dark.svg" width="48"></td>
         <td><code>vuejs</code></td>
         <td><img src="./public/icons/VueJS-Dark.svg" width="48"></td>
-        <td><code>webassembly</code></td>
-        <td><img src="./public/icons/WebAssembly-Dark.svg" width="48"></td>
     </tr>
     <tr>
+        <td><code>webassembly</code></td>
+        <td><img src="./public/icons/WebAssembly-Dark.svg" width="48"></td>
         <td><code>webflow</code></td>
         <td><img src="./public/icons/Webflow-Dark.svg" width="48"></td>
         <td><code>webpack</code></td>
         <td><img src="./public/icons/Webpack-Dark.svg" width="48"></td>
-        <td><code>windicss</code></td>
-        <td><img src="./public/icons/WindiCSS-Dark.svg" width="48"></td>
     </tr>
     <tr>
+        <td><code>windicss</code></td>
+        <td><img src="./public/icons/WindiCSS-Dark.svg" width="48"></td>
         <td><code>wordpress</code></td>
         <td><img src="./public/icons/Wordpress-Dark.svg" width="48"></td>
         <td><code>workers</code></td>
         <td><img src="./public/icons/Workers-Dark.svg" width="48"></td>
-        <td><code>xd</code></td>
-        <td><img src="./public/icons/XD-Dark.svg" width="48"></td>
     </tr>
     <tr>
-        <td><code>zig</code></td>
+        <td><code>xd</code></td>
+        <td><img src="./public/icons/XD-Dark.svg" width="48"> </td><code><td>zig</code></td>
         <td><img src="./public/icons/Zig-Dark.svg" width="48"></td>
     </tr>
 </table>
