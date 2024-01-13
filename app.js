@@ -86,6 +86,7 @@ const shortNames = {
     splunk: 'splunk',
     excel: 'msexcel',
     sv: 'systemverilog',
+    ink: 'inkscape',
 };
 // A list of icons with themes (light/dark)
 const themedIcons = [
