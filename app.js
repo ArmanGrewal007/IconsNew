@@ -87,6 +87,7 @@ const shortNames = {
     excel: 'msexcel',
     sv: 'systemverilog',
     ink: 'inkscape',
+    medium: 'medium',
 };
 // A list of icons with themes (light/dark)
 const themedIcons = [
