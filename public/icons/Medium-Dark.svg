@@ -1,5 +1,6 @@
 <svg width="256px" height="256px" viewBox="0 0 256 256" xmlns="http://www.w3.org/2000/svg"
     xmlns:svg="http://www.w3.org/2000/svg">
+    <rect width="256" height="256" rx="60" fill="#000000" stroke="#ffffff" stroke-width="1" />
     <rect width="256" height="256" rx="60" fill="#000000" id="rect1" />
     <g id="surface1" transform="matrix(0.89464544,0,0,0.81054753,12.050768,18.453732)">
         <path style="fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none"
