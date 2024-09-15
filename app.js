@@ -95,6 +95,8 @@ const shortNames = {
     sqlserver: 'mssqlserver',
     scylla: 'scylladb',
     snowflake: 'snowflakedb',
+    dgraph: 'dgraph',
+    couchbase: 'couchbase',
 };
 // A list of icons with themes (light/dark)
 const themedIcons = [
