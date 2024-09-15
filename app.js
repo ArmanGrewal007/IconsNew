@@ -93,6 +93,8 @@ const shortNames = {
     osi: 'osi',
     oracledb: 'oracledb',
     sqlserver: 'mssqlserver',
+    scylla: 'scylladb',
+    snowflake: 'snowflakedb',
 };
 // A list of icons with themes (light/dark)
 const themedIcons = [
