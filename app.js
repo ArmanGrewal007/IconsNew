@@ -90,6 +90,7 @@ const shortNames = {
     medium: 'medium',
     dragonflybsd: 'dragonflybsd',
     dragonflydb: 'dragonflydb',
+    osi: 'osi',
 };
 // A list of icons with themes (light/dark)
 const themedIcons = [
