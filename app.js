@@ -88,6 +88,8 @@ const shortNames = {
     sv: 'systemverilog',
     ink: 'inkscape',
     medium: 'medium',
+    dragonflybsd: 'dragonflybsd',
+    dragonflydb: 'dragonflydb',
 };
 // A list of icons with themes (light/dark)
 const themedIcons = [
