@@ -91,6 +91,8 @@ const shortNames = {
     dragonflybsd: 'dragonflybsd',
     dragonflydb: 'dragonflydb',
     osi: 'osi',
+    oracledb: 'oracledb',
+    sqlserver: 'mssqlserver',
 };
 // A list of icons with themes (light/dark)
 const themedIcons = [
