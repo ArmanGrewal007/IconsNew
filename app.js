@@ -97,6 +97,7 @@ const shortNames = {
     snowflake: 'snowflakedb',
     dgraph: 'dgraph',
     couchbase: 'couchbase',
+    couchdb: 'couchdb',
 };
 // A list of icons with themes (light/dark)
 const themedIcons = [
