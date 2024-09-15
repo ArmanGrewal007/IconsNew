@@ -47,7 +47,7 @@ Can specify *light* or *dark* (must add a trainling comma)
 
 <table>
     <tr>
-        <th colspan="6" align="center"> 228 icons and counting... </th>
+        <th colspan="6" align="center"> 231 icons and counting... </th>
     </tr>
     <tr>
         <th>Name</th>
@@ -388,64 +388,72 @@ Can specify *light* or *dark* (must add a trainling comma)
     <tr>
         <td><code>msexcel</code></td>
         <td><img src="./public/icons/MSExcel-Dark.svg" width="48"></td>
+        <td><code>mssqlserver</code></td>
+        <td><img src="./public/icons/MSSQLServer-Dark.svg" width="48"></td>
         <td><code>markdown</code></td>
         <td><img src="./public/icons/Markdown-Dark.svg" width="48"></td>
-        <td><code>mastodon</code></td>
-        <td><img src="./public/icons/Mastodon-Dark.svg" width="48"></td>
     </tr>
     <tr>
+        <td><code>mastodon</code></td>
+        <td><img src="./public/icons/Mastodon-Dark.svg" width="48"></td>
         <td><code>materialui</code></td>
         <td><img src="./public/icons/MaterialUI-Dark.svg" width="48"></td>
         <td><code>matlab</code></td>
         <td><img src="./public/icons/Matlab-Dark.svg" width="48"></td>
-        <td><code>maven</code></td>
-        <td><img src="./public/icons/Maven-Dark.svg" width="48"></td>
     </tr>
     <tr>
+        <td><code>maven</code></td>
+        <td><img src="./public/icons/Maven-Dark.svg" width="48"></td>
         <td><code>medium</code></td>
         <td><img src="./public/icons/Medium-Dark.svg" width="48"></td>
         <td><code>misskey</code></td>
         <td><img src="./public/icons/Misskey-Dark.svg" width="48"></td>
-        <td><code>mongodb</code></td>
-        <td><img src="./public/icons/MongoDB-Dark.svg" width="48"></td>
     </tr>
     <tr>
+        <td><code>mongodb</code></td>
+        <td><img src="./public/icons/MongoDB-Dark.svg" width="48"></td>
         <td><code>mysql</code></td>
         <td><img src="./public/icons/MySQL-Dark.svg" width="48"></td>
         <td><code>neo4j</code></td>
         <td><img src="./public/icons/Neo4j-Dark.svg" width="48"></td>
-        <td><code>neovim</code></td>
-        <td><img src="./public/icons/NeoVim-Dark.svg" width="48"></td>
     </tr>
     <tr>
+        <td><code>neovim</code></td>
+        <td><img src="./public/icons/NeoVim-Dark.svg" width="48"></td>
         <td><code>nestjs</code></td>
         <td><img src="./public/icons/NestJS-Dark.svg" width="48"></td>
         <td><code>netlify</code></td>
         <td><img src="./public/icons/Netlify-Dark.svg" width="48"></td>
-        <td><code>nextjs</code></td>
-        <td><img src="./public/icons/NextJS-Dark.svg" width="48"></td>
     </tr>
     <tr>
+        <td><code>nextjs</code></td>
+        <td><img src="./public/icons/NextJS-Dark.svg" width="48"></td>
         <td><code>nginx</code></td>
         <td><img src="./public/icons/Nginx-Dark.svg" width="48"></td>
         <td><code>nim</code></td>
         <td><img src="./public/icons/Nim-Dark.svg" width="48"></td>
-        <td><code>nodejs</code></td>
-        <td><img src="./public/icons/NodeJS-Dark.svg" width="48"></td>
     </tr>
     <tr>
+        <td><code>nodejs</code></td>
+        <td><img src="./public/icons/NodeJS-Dark.svg" width="48"></td>
         <td><code>nuxtjs</code></td>
         <td><img src="./public/icons/NuxtJS-Dark.svg" width="48"></td>
         <td><code>ocaml</code></td>
         <td><img src="./public/icons/OCaml-Dark.svg" width="48"></td>
-        <td><code>octave</code></td>
-        <td><img src="./public/icons/Octave-Dark.svg" width="48"></td>
     </tr>
     <tr>
+        <td><code>osi</code></td>
+        <td><img src="./public/icons/OSI-Dark.svg" width="48"></td>
+        <td><code>octave</code></td>
+        <td><img src="./public/icons/Octave-Dark.svg" width="48"></td>
         <td><code>openshift</code></td>
         <td><img src="./public/icons/OpenShift-Dark.svg" width="48"></td>
+    </tr>
+    <tr>
         <td><code>openstack</code></td>
         <td><img src="./public/icons/OpenStack-Dark.svg" width="48"></td>
+        <td><code>oracledb</code></td>
+        <td><img src="./public/icons/OracleDB-Dark.svg" width="48"></td>
         <td><code>php</code></td>
         <td><img src="./public/icons/PHP-Dark.svg" width="48"></td>
     </tr>
