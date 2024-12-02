@@ -115,7 +115,7 @@ const SCALE = ONE_ICON / (300 - 44);
 // icons in a grid
 function generateSvg(iconNames, perLine) {
     const iconSvgList = iconNames.map(i => icons[i]);
-
+    console.log(iconSvgList.length);
     const length = Math.min(perLine * 300, iconNames.length * 300) - 44;
     const height = Math.ceil(iconSvgList.length / perLine) * 300 - 44;
     const scaledHeight = height * SCALE;
@@ -157,57 +157,65 @@ function parseShortNames(names, theme = 'dark') {
 // This is the main request handlind function, it parses the request URL and
 // extracts parameters, then calls generateSvg() to generate the SVG markup
 async function handleRequest(request) {
-    // const fullUrl = `${request.protocol}://${request.get('host')}${request.originalUrl}`;
-    // const { pathname, query } = new URL(fullUrl);
+    const { pathname, query } = url.parse(request.url, true); // `true` parses the query string automatically
+    const path = pathname.replace(/^\/|\/$/g, ''); // Trim leading and trailing slashes
 
-    const { pathname, query } = url.parse(request.url);
-
-    const path = pathname.replace(/^\/|\/$/g, '');
     if (path === 'icons' || path === 'icon') {
-        // const iconParam = query.get('i') || query.get('icons');
-        const iconParam = query.includes('i=') ? query.split('i=')[1] : null;
-        if (!iconParam || !query)
+        const queryParams = new URLSearchParams(query); // Parse query parameters
+
+        // Extract parameters
+        const iconParam = queryParams.get('i'); // Get icons list
+        const theme = queryParams.get('t') || 'dark'; // Default theme is dark
+        const perLine = parseInt(queryParams.get('perline') || ICONS_PER_LINE, 10); // Default icons per line
+
+        // Validate `iconParam`
+        if (!iconParam) {
             return new Response("You didn't specify any icons!", { status: 400 });
-        // const theme = query.get('t') || query.get('theme');
-        const theme = query.includes('t=') ? query.split('t=')[1] : null;
-        if (theme && theme !== 'dark' && theme !== 'light')
-            return new Response('Theme must be either "light" or "dark"', {
-                status: 400,
-            });
-        // const perLine = query.get('perline') || ICONS_PER_LINE;
-        const perLine = query.includes('perline=') ? query.split('perline=')[1] : ICONS_PER_LINE;
-        if (isNaN(perLine) || perLine < -1 || perLine > 50)
-            return new Response('Icons per line must be a number between 1 and 50', {
-                status: 400,
-            });
+        }
 
-        let iconShortNames = [];
-        if (iconParam === 'all') iconShortNames = iconNameList;
-        else iconShortNames = iconParam.split(/,|%2C/);
+        // Validate `theme`
+        if (theme !== 'dark' && theme !== 'light') {
+            return new Response('Theme must be either "light" or "dark"', { status: 400 });
+        }
 
-        const iconNames = parseShortNames(iconShortNames, theme || undefined);
-        if (!iconNames)
-            return new Response("You didn't format the icons param correctly!", {
-                status: 400,
-            });
+        // Validate `perLine`
+        if (isNaN(perLine) || perLine < 1 || perLine > 50) {
+            return new Response('Icons per line must be a number between 1 and 50', { status: 400 });
+        }
 
+        // Parse icon short names
+        const iconShortNames =
+            iconParam === 'all'
+                ? iconNameList
+                : iconParam.split(/,|%2C/).filter(name => name.trim() !== '');
+
+        if (iconShortNames.length === 0) {
+            return new Response("You didn't specify any valid icons!", { status: 400 });
+        }
+
+        console.log('iconShortNames:', iconShortNames);
+
+        // Map short names to full icon names with themes
+        const iconNames = parseShortNames(iconShortNames, theme);
+        if (!iconNames || iconNames.length === 0) {
+            return new Response("No valid icons were found!", { status: 400 });
+        }
+
+        // Generate SVG markup
         const svg = generateSvg(iconNames, perLine);
 
+        // Return SVG response
         return new Response(svg, { headers: { 'Content-Type': 'image/svg+xml' } });
     } else if (path === 'api/icons') {
         return new Response(JSON.stringify(iconNameList), {
-            headers: {
-                'content-type': 'application/json;charset=UTF-8',
-            },
+            headers: { 'content-type': 'application/json;charset=UTF-8' },
         });
     } else if (path === 'api/svgs') {
         return new Response(JSON.stringify(icons), {
-            headers: {
-                'content-type': 'application/json;charset=UTF-8',
-            },
+            headers: { 'content-type': 'application/json;charset=UTF-8' },
         });
     } else {
-        return fetch(request);
+        return new Response('Endpoint not found!', { status: 404 });
     }
 }
 
