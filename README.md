@@ -11,8 +11,8 @@
 You can add any icons from <a href="#icons-list">Icons list (must add a trainling comma)
 <table>
     <tr>
-        <td><pre lang="html"><code>&lt;img src="https://icons-theta.vercel.app/icons?i=es,lg,kb,"></code></pre></td>
-        <td><img src="https://icons-theta.vercel.app/icons?i=es,lg,kb,"></td>
+        <td><pre lang="html"><code>&lt;img src="https://icons-theta.vercel.app/icons?i=es,lg,kb"></code></pre></td>
+        <td><img src="https://icons-theta.vercel.app/icons?i=es,lg,kb"></td>
     </tr>
 </table>
 
@@ -22,12 +22,12 @@ You can add any icons from <a href="#icons-list">Icons list (must add a trainlin
 Can specify *light* or *dark* (must add a trainling comma)
 <table>
     <tr>
-        <td><pre lang="html"><code>&lt;img src="https://icons-theta.vercel.app/icons?i=es,lg,kb,&t=light"></code></pre></td>
-        <td><img src="https://icons-theta.vercel.app/icons?i=es,lg,kb,&t=light"></td>
+        <td><pre lang="html"><code>&lt;img src="https://icons-theta.vercel.app/icons?i=es,lg,kb&t=light"></code></pre></td>
+        <td><img src="https://icons-theta.vercel.app/icons?i=es,lg,kb&t=light"></td>
     </tr>
     <tr>
-        <td><pre lang="html"><code>&lt;img src="https://icons-theta.vercel.app/icons?i=es,lg,kb,&t=dark"></code></pre></td>
-        <td><img src="https://icons-theta.vercel.app/icons?i=es,lg,kb,&t=dark"></td>
+        <td><pre lang="html"><code>&lt;img src="https://icons-theta.vercel.app/icons?i=es,lg,kb&t=dark"></code></pre></td>
+        <td><img src="https://icons-theta.vercel.app/icons?i=es,lg,kb&t=dark"></td>
     </tr>
 </table>
 
@@ -37,8 +37,8 @@ Can specify *light* or *dark* (must add a trainling comma)
 (must add a trainling comma)
 <table>
     <tr>
-        <td><pre lang="html"><code>&lt;img src="https://icons-theta.vercel.app/icons?i=es,lg,kb,&t=light&perline=1"></code></pre></td>
-        <td><img src="https://icons-theta.vercel.app/icons?i=es,lg,kb,&perline=1"></td>
+        <td><pre lang="html"><code>&lt;img src="https://icons-theta.vercel.app/icons?i=es,lg,kb&t=light&perline=1"></code></pre></td>
+        <td><img src="https://icons-theta.vercel.app/icons?i=es,lg,kb&perline=1"></td>
     </tr>
 </table>
 
