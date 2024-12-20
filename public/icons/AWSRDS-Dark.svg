@@ -1,0 +1,20 @@
+<svg width="256px" height="256px" viewBox="0 0 256 256" xmlns="http://www.w3.org/2000/svg"
+    xmlns:svg="http://www.w3.org/2000/svg">
+    <rect width="256" height="256" fill="#242938" rx="60" id="rect1" />
+    <g id="surface1" transform="matrix(0.76266116,0,0,0.75098349,31.523335,21.239613)">
+        <path style="fill:#19456e;fill-opacity:1;fill-rule:nonzero;stroke:none"
+            d="M 0.0273438,223.96484 29.992188,258.96875 32.6875,255.77734 V 31.890625 L 29.992188,28.507812 0.0273438,63.496094 V 223.96484"
+            id="path1" />
+        <path style="fill:#1e5997;fill-opacity:1;fill-rule:nonzero;stroke:none"
+            d="M 29.996094,258.96875 87.253906,287.5 89.636719,283.68359 89.675781,2.988281 87.292969,0 29.996094,28.441406 V 258.96875"
+            id="path2" />
+        <path style="fill:#2b70b8;fill-opacity:1;fill-rule:nonzero;stroke:none"
+            d="M 255.97266,63.496094 226,28.507812 l -3.35156,1.054688 0.66406,226.54687 2.6875,2.85938 29.97266,-35 V 63.496094"
+            id="path3" />
+        <path style="fill:#5194cf;fill-opacity:1;fill-rule:nonzero;stroke:none"
+            d="M 168.74219,287.5 226,258.96875 V 28.441406 L 168.70312,0 l -2.71093,3.65625 0.0391,279.69141 2.71094,4.15234"
+            id="path4" />
+        <path style="fill:#2b70b8;fill-opacity:1;fill-rule:nonzero;stroke:none"
+            d="M 87.292969,0 H 168.70312 V 287.50391 H 87.292969 Z m 0,0" id="path5" />
+    </g>
+</svg>

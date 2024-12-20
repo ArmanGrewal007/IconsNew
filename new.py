@@ -11,7 +11,7 @@ for file_name in file_names:
 
 print(f"unique icons: {len(base_set)}")
 
-base_lst = sorted(list(base_set))
+base_lst = sorted(list(base_set), key=lambda x: x.lower())
 complete_lines = len(base_lst) // 3
 
 # Remove .DS_Store if it exists

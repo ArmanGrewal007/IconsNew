@@ -14,6 +14,7 @@ const port = 3300;
 
 // Load icons object from icons.json
 const icons = require('./public/dist/icons.json');
+const { config } = require('process');
 // List if unique icon names derived from our object keys
 const iconNameList = [...new Set(Object.keys(icons).map(i => i.split('-')[0]))];
 // A mapping of short names to full names
@@ -104,9 +105,16 @@ const shortNames = {
     zookeeper: 'apachezookeeper',
     tkinter: 'pythontkinter',
     swing: 'javaswing',
-    s3: 'amazons3',
+    s3: 'awss3',
     lambda: 'awslambda',
     lambda2: 'awslambda2',
+    rds: 'awsrds',
+    dynamo: 'awsdynamodb',
+    iam: 'awsiam',
+    cloudfront: 'awscloudfront',
+    cloudwatch: 'awscloudwatch',
+    cognito: 'awscognito',
+    sns: 'awssns',
     tf: 'tensorflow',
     ml: 'machinelearning',
 };
