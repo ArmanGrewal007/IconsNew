@@ -98,6 +98,17 @@ const shortNames = {
     dgraph: 'dgraph',
     couchbase: 'couchbase',
     couchdb: 'couchdb',
+    math: 'mathematics',
+    geogebra: 'geogebra',
+    wa: 'webassembly',
+    zookeeper: 'apachezookeeper',
+    tkinter: 'pythontkinter',
+    swing: 'javaswing',
+    s3: 'amazons3',
+    lambda: 'awslambda',
+    lambda2: 'awslambda2',
+    tf: 'tensorflow',
+    ml: 'machinelearning',
 };
 // A list of icons with themes (light/dark)
 const themedIcons = [
