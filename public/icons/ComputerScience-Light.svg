@@ -1,0 +1,100 @@
+<svg width="256px" height="256px" viewBox="0 0 256 256"
+    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd" xmlns="http://www.w3.org/2000/svg"
+    xmlns:svg="http://www.w3.org/2000/svg">
+    <rect width="256" height="256" rx="60" fill="#f2f4ed" id="rect1" />
+    <g id="surface1" transform="matrix(0.88691926,0,0,0.88222592,13.750148,6.2037953)">
+        <path
+            style="fill:none;stroke:#242938;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1"
+            d="m 56,27 c 0,1.099609 -0.900391,2 -2,2 H 8 C 6.900391,29 6,28.099609 6,27 V 2 C 6,0.900391 6.900391,0 8,0 h 46 c 1.099609,0 2,0.900391 2,2 z m 0,0"
+            transform="matrix(4,0,0,4,4,32)" id="path1" />
+        <path
+            style="fill:none;stroke:#242938;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1"
+            d="m 57,31 c 0,-1.099609 -0.900391,-2 -2,-2 H 7 C 5.900391,29 5,29.900391 5,31 L 0,46 c 0,1.099609 0.900391,2 2,2 h 58 c 1.099609,0 2,-0.900391 2,-2 z m 0,0"
+            transform="matrix(4,0,0,4,4,32)" id="path2" />
+        <path
+            style="fill:none;stroke:#242938;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1"
+            d="M 2,42.900391 H 61" transform="matrix(4,0,0,4,4,32)" id="path3" />
+        <path
+            style="fill:none;stroke:#242938;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1"
+            d="m 52.099609,24 c 0,1.099609 -0.899414,2 -2,2 H 12 c -1.099609,0 -2,-0.900391 -2,-2 V 6 c 0,-1.099609 0.900391,-2 2,-2 h 38 c 1.099609,0 2,0.900391 2,2 z m 0,0"
+            transform="matrix(4,0,0,4,4,32)" id="path4" />
+        <path
+            style="fill:none;stroke:#242938;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1"
+            d="M 22,39 H 40" transform="matrix(4,0,0,4,4,32)" id="path5" />
+        <path
+            style="fill:none;stroke:#242938;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1"
+            d="M 17.200195,39 H 20" transform="matrix(4,0,0,4,4,32)" id="path6" />
+        <path
+            style="fill:none;stroke:#242938;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1"
+            d="M 12.099609,39 H 15" transform="matrix(4,0,0,4,4,32)" id="path7" />
+        <path
+            style="fill:none;stroke:#242938;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1"
+            d="m 7,39 h 3" transform="matrix(4,0,0,4,4,32)" id="path8" />
+        <path
+            style="fill:none;stroke:#242938;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1"
+            d="M 9.200195,35 H 12" transform="matrix(4,0,0,4,4,32)" id="path9" />
+        <path
+            style="fill:none;stroke:#242938;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1"
+            d="m 14,35 h 3" transform="matrix(4,0,0,4,4,32)" id="path10" />
+        <path
+            style="fill:none;stroke:#242938;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1"
+            d="m 19,35 h 3" transform="matrix(4,0,0,4,4,32)" id="path11" />
+        <path
+            style="fill:none;stroke:#242938;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1"
+            d="m 24,35 h 3" transform="matrix(4,0,0,4,4,32)" id="path12" />
+        <path
+            style="fill:none;stroke:#242938;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1"
+            d="m 29,35 h 3" transform="matrix(4,0,0,4,4,32)" id="path13" />
+        <path
+            style="fill:none;stroke:#242938;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1"
+            d="m 34,35 h 3" transform="matrix(4,0,0,4,4,32)" id="path14" />
+        <path
+            style="fill:none;stroke:#242938;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1"
+            d="m 39,35 h 3" transform="matrix(4,0,0,4,4,32)" id="path15" />
+        <path
+            style="fill:none;stroke:#242938;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1"
+            d="m 45,35 h 3" transform="matrix(4,0,0,4,4,32)" id="path16" />
+        <path
+            style="fill:none;stroke:#242938;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1"
+            d="m 50,35 h 3" transform="matrix(4,0,0,4,4,32)" id="path17" />
+        <path
+            style="fill:none;stroke:#242938;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1"
+            d="m 47,32 h 3" transform="matrix(4,0,0,4,4,32)" id="path18" />
+        <path
+            style="fill:none;stroke:#242938;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1"
+            d="m 42,32 h 3" transform="matrix(4,0,0,4,4,32)" id="path19" />
+        <path
+            style="fill:none;stroke:#242938;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1"
+            d="m 37,32 h 3" transform="matrix(4,0,0,4,4,32)" id="path20" />
+        <path
+            style="fill:none;stroke:#242938;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1"
+            d="m 32,32 h 3" transform="matrix(4,0,0,4,4,32)" id="path21" />
+        <path
+            style="fill:none;stroke:#242938;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1"
+            d="m 27,32 h 3" transform="matrix(4,0,0,4,4,32)" id="path22" />
+        <path
+            style="fill:none;stroke:#242938;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1"
+            d="m 22,32 h 3" transform="matrix(4,0,0,4,4,32)" id="path23" />
+        <path
+            style="fill:none;stroke:#242938;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1"
+            d="M 17.099609,32 H 20" transform="matrix(4,0,0,4,4,32)" id="path24" />
+        <path
+            style="fill:none;stroke:#242938;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1"
+            d="m 12,32 h 3" transform="matrix(4,0,0,4,4,32)" id="path25" />
+        <path
+            style="fill:none;stroke:#242938;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1"
+            d="m 42,39 h 2.799805" transform="matrix(4,0,0,4,4,32)" id="path26" />
+        <path
+            style="fill:none;stroke:#242938;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1"
+            d="m 47,39 h 2.900391" transform="matrix(4,0,0,4,4,32)" id="path27" />
+        <path
+            style="fill:none;stroke:#242938;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1"
+            d="m 52,39 h 3" transform="matrix(4,0,0,4,4,32)" id="path28" />
+        <path
+            style="fill:none;stroke:#242938;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1"
+            d="m 26.5,9.200195 -9.200195,9.200196" transform="matrix(4,0,0,4,4,32)" id="path29" />
+        <path
+            style="fill:none;stroke:#242938;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1"
+            d="m 20.400391,9.200195 -5.700196,4.59961" transform="matrix(4,0,0,4,4,32)" id="path30" />
+    </g>
+</svg>

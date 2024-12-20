@@ -46,7 +46,7 @@ Can specify *light* or *dark*
 
 <table>
     <tr>
-        <th colspan="6" align="center"> 255 icons and counting... </th>
+        <th colspan="6" align="center"> 258 icons and counting... </th>
     </tr>
     <tr>
         <th>Name</th>
@@ -141,396 +141,404 @@ Can specify *light* or *dark*
         <td><img src="./public/icons/Bash-Dark.svg" width="48"></td>
         <td><code>bevy</code></td>
         <td><img src="./public/icons/Bevy-Dark.svg" width="48"></td>
-        <td><code>blender</code></td>
-        <td><img src="./public/icons/Blender-Dark.svg" width="48"></td>
+        <td><code>biotechnology</code></td>
+        <td><img src="./public/icons/BioTechnology-Dark.svg" width="48"></td>
     </tr>
     <tr>
+        <td><code>blender</code></td>
+        <td><img src="./public/icons/Blender-Dark.svg" width="48"></td>
         <td><code>bootstrap</code></td>
         <td><img src="./public/icons/Bootstrap-Dark.svg" width="48"></td>
         <td><code>c</code></td>
         <td><img src="./public/icons/C-Dark.svg" width="48"></td>
-        <td><code>cmake</code></td>
-        <td><img src="./public/icons/CMake-Dark.svg" width="48"></td>
     </tr>
     <tr>
+        <td><code>cmake</code></td>
+        <td><img src="./public/icons/CMake-Dark.svg" width="48"></td>
         <td><code>cpp</code></td>
         <td><img src="./public/icons/CPP-Dark.svg" width="48"></td>
         <td><code>cs</code></td>
         <td><img src="./public/icons/CS-Dark.svg" width="48"></td>
-        <td><code>css</code></td>
-        <td><img src="./public/icons/CSS-Dark.svg" width="48"></td>
     </tr>
     <tr>
+        <td><code>css</code></td>
+        <td><img src="./public/icons/CSS-Dark.svg" width="48"></td>
         <td><code>cassandra</code></td>
         <td><img src="./public/icons/Cassandra-Dark.svg" width="48"></td>
         <td><code>centos</code></td>
         <td><img src="./public/icons/CentOS-Dark.svg" width="48"></td>
-        <td><code>clojure</code></td>
-        <td><img src="./public/icons/Clojure-Dark.svg" width="48"></td>
     </tr>
     <tr>
+        <td><code>clojure</code></td>
+        <td><img src="./public/icons/Clojure-Dark.svg" width="48"></td>
         <td><code>cloudflare</code></td>
         <td><img src="./public/icons/Cloudflare-Dark.svg" width="48"></td>
         <td><code>codepen</code></td>
         <td><img src="./public/icons/CodePen-Dark.svg" width="48"></td>
-        <td><code>coffeescript</code></td>
-        <td><img src="./public/icons/CoffeeScript-Dark.svg" width="48"></td>
     </tr>
     <tr>
+        <td><code>coffeescript</code></td>
+        <td><img src="./public/icons/CoffeeScript-Dark.svg" width="48"></td>
+        <td><code>computerscience</code></td>
+        <td><img src="./public/icons/ComputerScience-Dark.svg" width="48"></td>
         <td><code>couchdb</code></td>
         <td><img src="./public/icons/CouchDB-Dark.svg" width="48"></td>
+    </tr>
+    <tr>
         <td><code>couchbase</code></td>
         <td><img src="./public/icons/Couchbase-Dark.svg" width="48"></td>
         <td><code>crystal</code></td>
         <td><img src="./public/icons/Crystal-Dark.svg" width="48"></td>
-    </tr>
-    <tr>
         <td><code>d3</code></td>
         <td><img src="./public/icons/D3-Dark.svg" width="48"></td>
+    </tr>
+    <tr>
         <td><code>dbms</code></td>
         <td><img src="./public/icons/DBMS-Dark.svg" width="48"></td>
         <td><code>deno</code></td>
         <td><img src="./public/icons/DENO-Dark.svg" width="48"></td>
-    </tr>
-    <tr>
         <td><code>dart</code></td>
         <td><img src="./public/icons/Dart-Dark.svg" width="48"></td>
+    </tr>
+    <tr>
         <td><code>dataanalysis</code></td>
         <td><img src="./public/icons/DataAnalysis-Dark.svg" width="48"></td>
         <td><code>debezium</code></td>
         <td><img src="./public/icons/Debezium-Dark.svg" width="48"></td>
-    </tr>
-    <tr>
         <td><code>debian</code></td>
         <td><img src="./public/icons/Debian-Dark.svg" width="48"></td>
+    </tr>
+    <tr>
         <td><code>devto</code></td>
         <td><img src="./public/icons/DevTo-Dark.svg" width="48"></td>
         <td><code>dgraph</code></td>
         <td><img src="./public/icons/Dgraph-Dark.svg" width="48"></td>
-    </tr>
-    <tr>
         <td><code>discord</code></td>
         <td><img src="./public/icons/Discord-Dark.svg" width="48"></td>
+    </tr>
+    <tr>
         <td><code>discordbots</code></td>
         <td><img src="./public/icons/DiscordBots-Dark.svg" width="48"></td>
         <td><code>django</code></td>
         <td><img src="./public/icons/Django-Dark.svg" width="48"></td>
-    </tr>
-    <tr>
         <td><code>docker</code></td>
         <td><img src="./public/icons/Docker-Dark.svg" width="48"></td>
+    </tr>
+    <tr>
         <td><code>dotnet</code></td>
         <td><img src="./public/icons/DotNet-Dark.svg" width="48"></td>
         <td><code>dragonflybsd</code></td>
         <td><img src="./public/icons/DragonflyBSD-Dark.svg" width="48"></td>
-    </tr>
-    <tr>
         <td><code>dragonflydb</code></td>
         <td><img src="./public/icons/DragonflyDB-Dark.svg" width="48"></td>
+    </tr>
+    <tr>
         <td><code>dynamodb</code></td>
         <td><img src="./public/icons/DynamoDB-Dark.svg" width="48"></td>
         <td><code>eclipse</code></td>
         <td><img src="./public/icons/Eclipse-Dark.svg" width="48"></td>
-    </tr>
-    <tr>
         <td><code>elasticsearch</code></td>
         <td><img src="./public/icons/Elasticsearch-Dark.svg" width="48"></td>
+    </tr>
+    <tr>
         <td><code>electron</code></td>
         <td><img src="./public/icons/Electron-Dark.svg" width="48"></td>
         <td><code>elixir</code></td>
         <td><img src="./public/icons/Elixir-Dark.svg" width="48"></td>
-    </tr>
-    <tr>
         <td><code>emacs</code></td>
         <td><img src="./public/icons/Emacs-Dark.svg" width="48"></td>
+    </tr>
+    <tr>
         <td><code>ember</code></td>
         <td><img src="./public/icons/Ember-Dark.svg" width="48"></td>
         <td><code>emotion</code></td>
         <td><img src="./public/icons/Emotion-Dark.svg" width="48"></td>
-    </tr>
-    <tr>
         <td><code>english</code></td>
         <td><img src="./public/icons/English-Dark.svg" width="48"></td>
+    </tr>
+    <tr>
         <td><code>expressjs</code></td>
         <td><img src="./public/icons/ExpressJS-Dark.svg" width="48"></td>
         <td><code>fastapi</code></td>
         <td><img src="./public/icons/FastAPI-Dark.svg" width="48"></td>
-    </tr>
-    <tr>
         <td><code>fediverse</code></td>
         <td><img src="./public/icons/Fediverse-Dark.svg" width="48"></td>
+    </tr>
+    <tr>
         <td><code>figma</code></td>
         <td><img src="./public/icons/Figma-Dark.svg" width="48"></td>
         <td><code>firebase</code></td>
         <td><img src="./public/icons/Firebase-Dark.svg" width="48"></td>
-    </tr>
-    <tr>
         <td><code>flask</code></td>
         <td><img src="./public/icons/Flask-Dark.svg" width="48"></td>
+    </tr>
+    <tr>
         <td><code>flutter</code></td>
         <td><img src="./public/icons/Flutter-Dark.svg" width="48"></td>
         <td><code>forth</code></td>
         <td><img src="./public/icons/Forth-Dark.svg" width="48"></td>
-    </tr>
-    <tr>
         <td><code>fortran</code></td>
         <td><img src="./public/icons/Fortran-Dark.svg" width="48"></td>
+    </tr>
+    <tr>
         <td><code>gcp</code></td>
         <td><img src="./public/icons/GCP-Dark.svg" width="48"></td>
         <td><code>gtk</code></td>
         <td><img src="./public/icons/GTK-Dark.svg" width="48"></td>
-    </tr>
-    <tr>
         <td><code>gamemakerstudio</code></td>
         <td><img src="./public/icons/GameMakerStudio-Dark.svg" width="48"></td>
+    </tr>
+    <tr>
         <td><code>gatsby</code></td>
         <td><img src="./public/icons/Gatsby-Dark.svg" width="48"></td>
         <td><code>gentoo</code></td>
         <td><img src="./public/icons/Gentoo-Dark.svg" width="48"></td>
-    </tr>
-    <tr>
         <td><code>geogebra</code></td>
         <td><img src="./public/icons/Geogebra-Dark.svg" width="48"></td>
+    </tr>
+    <tr>
         <td><code>gherkin</code></td>
         <td><img src="./public/icons/Gherkin-Dark.svg" width="48"></td>
         <td><code>gimp</code></td>
         <td><img src="./public/icons/Gimp-Dark.svg" width="48"></td>
-    </tr>
-    <tr>
         <td><code>git</code></td>
         <td><img src="./public/icons/Git-Dark.svg" width="48"></td>
+    </tr>
+    <tr>
         <td><code>gitlab</code></td>
         <td><img src="./public/icons/GitLab-Dark.svg" width="48"></td>
         <td><code>github</code></td>
         <td><img src="./public/icons/Github-Dark.svg" width="48"></td>
-    </tr>
-    <tr>
         <td><code>githubactions</code></td>
         <td><img src="./public/icons/GithubActions-Dark.svg" width="48"></td>
+    </tr>
+    <tr>
         <td><code>golang</code></td>
         <td><img src="./public/icons/GoLang-Dark.svg" width="48"></td>
         <td><code>godot</code></td>
         <td><img src="./public/icons/Godot-Dark.svg" width="48"></td>
-    </tr>
-    <tr>
         <td><code>gradle</code></td>
         <td><img src="./public/icons/Gradle-Dark.svg" width="48"></td>
+    </tr>
+    <tr>
         <td><code>grafana</code></td>
         <td><img src="./public/icons/Grafana-Dark.svg" width="48"></td>
         <td><code>graphql</code></td>
         <td><img src="./public/icons/GraphQL-Dark.svg" width="48"></td>
-    </tr>
-    <tr>
         <td><code>gruntjs</code></td>
         <td><img src="./public/icons/GruntJS-Dark.svg" width="48"></td>
+    </tr>
+    <tr>
         <td><code>gulp</code></td>
         <td><img src="./public/icons/Gulp-Dark.svg" width="48"></td>
         <td><code>html</code></td>
         <td><img src="./public/icons/HTML-Dark.svg" width="48"></td>
-    </tr>
-    <tr>
         <td><code>haskell</code></td>
         <td><img src="./public/icons/Haskell-Dark.svg" width="48"></td>
+    </tr>
+    <tr>
         <td><code>haxe</code></td>
         <td><img src="./public/icons/Haxe-Dark.svg" width="48"></td>
         <td><code>haxeflixel</code></td>
         <td><img src="./public/icons/HaxeFlixel-Dark.svg" width="48"></td>
-    </tr>
-    <tr>
         <td><code>heroku</code></td>
         <td><img src="./public/icons/Heroku-Dark.svg" width="48"></td>
+    </tr>
+    <tr>
         <td><code>hibernate</code></td>
         <td><img src="./public/icons/Hibernate-Dark.svg" width="48"></td>
         <td><code>hindi</code></td>
         <td><img src="./public/icons/Hindi-Dark.svg" width="48"></td>
-    </tr>
-    <tr>
         <td><code>homebrew</code></td>
         <td><img src="./public/icons/Homebrew-Dark.svg" width="48"></td>
+    </tr>
+    <tr>
         <td><code>ipfs</code></td>
         <td><img src="./public/icons/IPFS-Dark.svg" width="48"></td>
         <td><code>idea</code></td>
         <td><img src="./public/icons/Idea-Dark.svg" width="48"></td>
-    </tr>
-    <tr>
         <td><code>illustrator</code></td>
         <td><img src="./public/icons/Illustrator-Dark.svg" width="48"></td>
+    </tr>
+    <tr>
         <td><code>influxdb</code></td>
         <td><img src="./public/icons/InfluxDB-Dark.svg" width="48"></td>
         <td><code>inkscape</code></td>
         <td><img src="./public/icons/Inkscape-Dark.svg" width="48"></td>
-    </tr>
-    <tr>
         <td><code>instagram</code></td>
         <td><img src="./public/icons/Instagram-Dark.svg" width="48"></td>
+    </tr>
+    <tr>
         <td><code>jquery</code></td>
         <td><img src="./public/icons/JQuery-Dark.svg" width="48"></td>
         <td><code>java</code></td>
         <td><img src="./public/icons/Java-Dark.svg" width="48"></td>
-    </tr>
-    <tr>
         <td><code>javascript</code></td>
         <td><img src="./public/icons/JavaScript-Dark.svg" width="48"></td>
+    </tr>
+    <tr>
         <td><code>javaswing</code></td>
         <td><img src="./public/icons/JavaSwing-Dark.svg" width="48"></td>
         <td><code>jenkins</code></td>
         <td><img src="./public/icons/Jenkins-Dark.svg" width="48"></td>
-    </tr>
-    <tr>
         <td><code>jest</code></td>
         <td><img src="./public/icons/Jest-Dark.svg" width="48"></td>
+    </tr>
+    <tr>
         <td><code>jirasoft</code></td>
         <td><img src="./public/icons/JiraSoft-Dark.svg" width="48"></td>
         <td><code>julia</code></td>
         <td><img src="./public/icons/Julia-Dark.svg" width="48"></td>
-    </tr>
-    <tr>
         <td><code>kafka</code></td>
         <td><img src="./public/icons/Kafka-Dark.svg" width="48"></td>
+    </tr>
+    <tr>
         <td><code>kaggle</code></td>
         <td><img src="./public/icons/Kaggle-Dark.svg" width="48"></td>
         <td><code>kibana</code></td>
         <td><img src="./public/icons/Kibana-Dark.svg" width="48"></td>
-    </tr>
-    <tr>
         <td><code>kotlin</code></td>
         <td><img src="./public/icons/Kotlin-Dark.svg" width="48"></td>
+    </tr>
+    <tr>
         <td><code>ktor</code></td>
         <td><img src="./public/icons/Ktor-Dark.svg" width="48"></td>
         <td><code>kubernetes</code></td>
         <td><img src="./public/icons/Kubernetes-Dark.svg" width="48"></td>
-    </tr>
-    <tr>
         <td><code>latex</code></td>
         <td><img src="./public/icons/LaTeX-Dark.svg" width="48"></td>
+    </tr>
+    <tr>
         <td><code>laravel</code></td>
         <td><img src="./public/icons/Laravel-Dark.svg" width="48"></td>
         <td><code>linkedin</code></td>
         <td><img src="./public/icons/LinkedIn-Dark.svg" width="48"></td>
-    </tr>
-    <tr>
         <td><code>linux</code></td>
         <td><img src="./public/icons/Linux-Dark.svg" width="48"></td>
+    </tr>
+    <tr>
         <td><code>lit</code></td>
         <td><img src="./public/icons/Lit-Dark.svg" width="48"></td>
         <td><code>logstash</code></td>
         <td><img src="./public/icons/Logstash-Dark.svg" width="48"></td>
-    </tr>
-    <tr>
         <td><code>lua</code></td>
         <td><img src="./public/icons/Lua-Dark.svg" width="48"></td>
+    </tr>
+    <tr>
         <td><code>msdos</code></td>
         <td><img src="./public/icons/MSDOS-Dark.svg" width="48"></td>
         <td><code>msexcel</code></td>
         <td><img src="./public/icons/MSExcel-Dark.svg" width="48"></td>
-    </tr>
-    <tr>
         <td><code>mssqlserver</code></td>
         <td><img src="./public/icons/MSSQLServer-Dark.svg" width="48"></td>
+    </tr>
+    <tr>
         <td><code>machinelearning</code></td>
         <td><img src="./public/icons/MachineLearning-Dark.svg" width="48"></td>
         <td><code>markdown</code></td>
         <td><img src="./public/icons/Markdown-Dark.svg" width="48"></td>
-    </tr>
-    <tr>
         <td><code>mastodon</code></td>
         <td><img src="./public/icons/Mastodon-Dark.svg" width="48"></td>
+    </tr>
+    <tr>
         <td><code>materialui</code></td>
         <td><img src="./public/icons/MaterialUI-Dark.svg" width="48"></td>
         <td><code>mathematics</code></td>
         <td><img src="./public/icons/Mathematics-Dark.svg" width="48"></td>
-    </tr>
-    <tr>
         <td><code>matlab</code></td>
         <td><img src="./public/icons/Matlab-Dark.svg" width="48"></td>
+    </tr>
+    <tr>
         <td><code>maven</code></td>
         <td><img src="./public/icons/Maven-Dark.svg" width="48"></td>
         <td><code>medium</code></td>
         <td><img src="./public/icons/Medium-Dark.svg" width="48"></td>
-    </tr>
-    <tr>
         <td><code>memcached</code></td>
         <td><img src="./public/icons/Memcached-Dark.svg" width="48"></td>
+    </tr>
+    <tr>
         <td><code>misskey</code></td>
         <td><img src="./public/icons/Misskey-Dark.svg" width="48"></td>
         <td><code>mongodb</code></td>
         <td><img src="./public/icons/MongoDB-Dark.svg" width="48"></td>
-    </tr>
-    <tr>
         <td><code>mysql</code></td>
         <td><img src="./public/icons/MySQL-Dark.svg" width="48"></td>
+    </tr>
+    <tr>
         <td><code>neo4j</code></td>
         <td><img src="./public/icons/Neo4j-Dark.svg" width="48"></td>
         <td><code>neovim</code></td>
         <td><img src="./public/icons/NeoVim-Dark.svg" width="48"></td>
-    </tr>
-    <tr>
         <td><code>nestjs</code></td>
         <td><img src="./public/icons/NestJS-Dark.svg" width="48"></td>
+    </tr>
+    <tr>
         <td><code>netlify</code></td>
         <td><img src="./public/icons/Netlify-Dark.svg" width="48"></td>
         <td><code>nextjs</code></td>
         <td><img src="./public/icons/NextJS-Dark.svg" width="48"></td>
-    </tr>
-    <tr>
         <td><code>nginx</code></td>
         <td><img src="./public/icons/Nginx-Dark.svg" width="48"></td>
+    </tr>
+    <tr>
         <td><code>nim</code></td>
         <td><img src="./public/icons/Nim-Dark.svg" width="48"></td>
         <td><code>nodejs</code></td>
         <td><img src="./public/icons/NodeJS-Dark.svg" width="48"></td>
-    </tr>
-    <tr>
         <td><code>nuxtjs</code></td>
         <td><img src="./public/icons/NuxtJS-Dark.svg" width="48"></td>
+    </tr>
+    <tr>
         <td><code>ocaml</code></td>
         <td><img src="./public/icons/OCaml-Dark.svg" width="48"></td>
         <td><code>osi</code></td>
         <td><img src="./public/icons/OSI-Dark.svg" width="48"></td>
-    </tr>
-    <tr>
         <td><code>octave</code></td>
         <td><img src="./public/icons/Octave-Dark.svg" width="48"></td>
+    </tr>
+    <tr>
         <td><code>openshift</code></td>
         <td><img src="./public/icons/OpenShift-Dark.svg" width="48"></td>
         <td><code>openstack</code></td>
         <td><img src="./public/icons/OpenStack-Dark.svg" width="48"></td>
-    </tr>
-    <tr>
         <td><code>oracledb</code></td>
         <td><img src="./public/icons/OracleDB-Dark.svg" width="48"></td>
+    </tr>
+    <tr>
         <td><code>php</code></td>
         <td><img src="./public/icons/PHP-Dark.svg" width="48"></td>
         <td><code>perl</code></td>
         <td><img src="./public/icons/Perl-Dark.svg" width="48"></td>
-    </tr>
-    <tr>
         <td><code>photoshop</code></td>
         <td><img src="./public/icons/Photoshop-Dark.svg" width="48"></td>
+    </tr>
+    <tr>
         <td><code>plan9</code></td>
         <td><img src="./public/icons/Plan9-Dark.svg" width="48"></td>
         <td><code>planetscale</code></td>
         <td><img src="./public/icons/PlanetScale-Dark.svg" width="48"></td>
-    </tr>
-    <tr>
         <td><code>podman</code></td>
         <td><img src="./public/icons/Podman-Dark.svg" width="48"></td>
+    </tr>
+    <tr>
         <td><code>postgresql</code></td>
         <td><img src="./public/icons/PostgreSQL-Dark.svg" width="48"></td>
         <td><code>postman</code></td>
         <td><img src="./public/icons/Postman-Dark.svg" width="48"></td>
-    </tr>
-    <tr>
         <td><code>powerbi</code></td>
         <td><img src="./public/icons/PowerBI-Dark.svg" width="48"></td>
+    </tr>
+    <tr>
         <td><code>powershell</code></td>
         <td><img src="./public/icons/Powershell-Dark.svg" width="48"></td>
         <td><code>premiere</code></td>
         <td><img src="./public/icons/Premiere-Dark.svg" width="48"></td>
-    </tr>
-    <tr>
         <td><code>prisma</code></td>
         <td><img src="./public/icons/Prisma-Dark.svg" width="48"></td>
+    </tr>
+    <tr>
+        <td><code>problemsolving</code></td>
+        <td><img src="./public/icons/ProblemSolving-Dark.svg" width="48"></td>
         <td><code>processing</code></td>
         <td><img src="./public/icons/Processing-Dark.svg" width="48"></td>
         <td><code>prometheus</code></td>
