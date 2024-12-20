@@ -1,0 +1,33 @@
+<svg width="256px" height="256px" viewBox="0 0 256 256" xmlns="http://www.w3.org/2000/svg"
+    xmlns:svg="http://www.w3.org/2000/svg">
+    <rect width="256" height="256" fill="#242938" rx="60" id="rect1" />
+    <g id="surface1" transform="matrix(0.91628438,0,0,0.93912084,11.727322,8.3445789)">
+        <path
+            style="fill:none;stroke:#f2f4ed;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stroke-opacity:1"
+            d="m 18,16 c 0,-1.656738 -1.343262,-3 -3,-3 -1.656738,0 -3,1.343262 -3,3 0,1.656738 1.343262,3 3,3 1.656738,0 3,-1.343262 3,-3 z m 0,0"
+            transform="scale(8)" id="path1" />
+        <path
+            style="fill:none;stroke:#f2f4ed;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stroke-opacity:1"
+            d="m 9,28 6,-9 6,9" transform="scale(8)" id="path2" />
+        <path
+            style="fill:none;stroke:#f2f4ed;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stroke-opacity:1"
+            d="M 15,30 V 19" transform="scale(8)" id="path3" />
+        <path
+            style="fill:none;stroke:#f2f4ed;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stroke-opacity:1"
+            d="m 1.79975,14.300152 6.700368,-2.72e-4 -1.81e-4,3.899867 -6.699915,4.53e-4 z m 0,0"
+            transform="matrix(7.428,-2.9712,2.9712,7.428,-45.138401,24.571199)" id="path4" />
+        <path
+            style="fill:none;stroke:#f2f4ed;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stroke-opacity:1"
+            d="m 19.600007,4.600081 h 9.599972 l 9.1e-5,7.699998 h -9.599972 z m 0,0"
+            transform="matrix(7.428,-2.9712,2.9712,7.428,-11.2488,77.355202)" id="path5" />
+        <path
+            style="fill:none;stroke:#f2f4ed;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stroke-opacity:1"
+            d="m 12,16.600098 -2.600098,1" transform="scale(8)" id="path6" />
+        <path
+            style="fill:none;stroke:#f2f4ed;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stroke-opacity:1"
+            d="m 21,13 -3.5,1.399902" transform="scale(8)" id="path7" />
+        <path
+            style="fill:none;stroke:#f2f4ed;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stroke-opacity:1"
+            d="M 7.200195,12.200195 18.899902,7.600098" transform="scale(8)" id="path8" />
+    </g>
+</svg>
