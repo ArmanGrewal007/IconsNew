@@ -118,6 +118,8 @@ const shortNames = {
     tf: 'tensorflow',
     ml: 'machinelearning',
     'c++': 'cpp',
+    'c#': 'csharp',
+    cs: 'csharp',
 };
 // A list of icons with themes (light/dark)
 const themedIcons = [
