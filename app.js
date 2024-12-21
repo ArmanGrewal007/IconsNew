@@ -117,6 +117,7 @@ const shortNames = {
     sns: 'awssns',
     tf: 'tensorflow',
     ml: 'machinelearning',
+    'c++': 'cpp',
 };
 // A list of icons with themes (light/dark)
 const themedIcons = [
@@ -140,7 +141,7 @@ function generateSvg(iconNames, perLine) {
     const scaledHeight = height * SCALE;
     const scaledWidth = length * SCALE;
 
-    const svg =  `
+    const svg = `
   <svg width="${scaledWidth}" height="${scaledHeight}" viewBox="0 0 ${length} ${height}" fill="none" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1">
     ${iconSvgList
             .map(
@@ -155,8 +156,8 @@ function generateSvg(iconNames, perLine) {
             .join(' ')}
   </svg>
   `;
-//   console.log(svg)
-  return svg
+    //   console.log(svg)
+    return svg
 }
 
 // This function takes a list of icon shortnames and a theme, and returns a list of
@@ -205,8 +206,12 @@ async function handleRequest(request) {
         // Parse icon short names
         const iconShortNames =
             iconParam === 'all'
-                ? iconNameList
-                : iconParam.split(/,|%2C/).filter(name => name.trim() !== '');
+                ? iconNameList.map(name => name.toLowerCase())
+                : iconParam
+                    .split(/,|%2C/)
+                    .filter(name => name.trim() !== '')
+                    .map(name => name.toLowerCase());
+
 
         if (iconShortNames.length === 0) {
             return new Response("You didn't specify any valid icons!", { status: 400 });
