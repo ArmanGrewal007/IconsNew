@@ -1,4 +1,5 @@
 <svg width="256" height="256" viewBox="0 0 256 256" fill="none" xmlns="http://www.w3.org/2000/svg">
+    <title>Sequelize</title>
 <rect width="256" height="256" rx="60" fill="#F4F2ED"/>
 <path d="M191.959 91.9785V163.985L128.093 199.834L127.506 200.346V227.488L128.093 228L218.013 178.273V78H217.155L191.802 91.5759V92.1373" fill="#2F406A"/>
 <path d="M63.616 164.406L128.139 200.047V228L37 178V78H37.9175L63.3506 92.1032L63.6193 92.9247V164.719" fill="#2379BD"/>

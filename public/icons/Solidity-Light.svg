@@ -1,4 +1,5 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="256" height="256" fill="none" viewBox="0 0 256 256">
+    <title>Solidity</title>
     <rect width="256" height="256" fill="#65AFFF" rx="60" />
     <path fill="#000" d="M165.536 25L128.006 83.79H53L90.5034 25H165.536Z" opacity=".45" />
     <path fill="#000" d="M128.006 83.79H203.039L165.536 25H90.5034L128.006 83.79Z" opacity=".6" />

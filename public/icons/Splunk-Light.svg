@@ -1,5 +1,6 @@
 <svg viewBox="0 0 256 256" width="256px" height="256px" clip-rule="evenodd" xmlns="http://www.w3.org/2000/svg"
     xmlns:svg="http://www.w3.org/2000/svg">
+    <title>Splunk</title>
     <rect width="256" height="256" rx="60" fill="#f2f4ed" id="rect1" />
     <path fill="#77b539" fill-rule="evenodd"
         d="M 56.271187,41.826773 V 76.563254 L 185.00241,122.87856 56.271187,183.11162 v 32.39756 L 206.45762,146.03622 V 99.720912 Z"

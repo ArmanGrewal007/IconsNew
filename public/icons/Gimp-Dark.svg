@@ -1,5 +1,6 @@
 <svg width="256px" height="256px" viewBox="0 0 256 256" xmlns="http://www.w3.org/2000/svg"
    xmlns:svg="http://www.w3.org/2000/svg">
+    <title>Gimp</title>
    <rect width="256" height="256" rx="60" fill="#242938" id="rect1" style="fill:#6e7475;fill-opacity:1" />
    <defs id="defs31">
       <radialGradient id="radial0" gradientUnits="userSpaceOnUse" cx="359.382" cy="134.83" fx="359.382" fy="134.83"

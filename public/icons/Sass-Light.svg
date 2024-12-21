@@ -1,4 +1,5 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="256" height="256" fill="none" viewBox="0 0 256 256">
+    <title>Sass</title>
     <rect width="256" height="256" fill="#f2f4ed" rx="60" />
     <g clip-path="url(#clip0_137_201)">
         <path fill="#CD6799"

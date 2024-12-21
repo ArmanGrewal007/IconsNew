@@ -1,5 +1,6 @@
 <svg width="256px" height="256px" viewBox="0 0 256 256" xmlns="http://www.w3.org/2000/svg"
     xmlns:svg="http://www.w3.org/2000/svg">
+    <title>Homebrew</title>
     <rect width="256" height="256" fill="#F2F4ED" rx="60" id="rect1" />
     <g id="surface1" transform="matrix(0.87254931,0,0,0.91559043,16.970592,11.10786)">
         <path style="fill:#cfd1d1;fill-opacity:1;fill-rule:nonzero;stroke:none"

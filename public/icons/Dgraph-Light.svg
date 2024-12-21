@@ -1,5 +1,6 @@
 <svg width="256px" height="256px" viewBox="0 0 256 256" version="1.1" xmlns="http://www.w3.org/2000/svg"
     xmlns:svg="http://www.w3.org/2000/svg">
+    <title>Dgraph</title>
     <rect width="256" height="256" rx="60" fill="#f2f4ed" id="rect1" />
     <defs id="defs2">
         <radialGradient id="radial0" gradientUnits="userSpaceOnUse" cx="29.431999" cy="35" fx="29.431999" fy="35"

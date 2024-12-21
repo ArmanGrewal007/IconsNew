@@ -1,5 +1,6 @@
 <svg viewBox="0 0 256 256" width="256px" height="256px" xmlns="http://www.w3.org/2000/svg"
     xmlns:svg="http://www.w3.org/2000/svg">
+    <title>PowerBI</title>
     <rect width="256" height="256" fill="#F2F4ED" rx="60" id="rect1" />
     <g id="surface1" transform="matrix(4.5435029,0,0,5.2576271,18.00678,2.4949155)">
         <linearGradient id="zlT103XX9RAwCGfF9JpW0a" x1="32" x2="32" y1="3.947" y2="44.750999"

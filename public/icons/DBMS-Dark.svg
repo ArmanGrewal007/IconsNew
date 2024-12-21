@@ -1,4 +1,5 @@
 <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="256px" height="256px" viewBox="0 0 256 256" version="1.1">
+    <title>DBMS</title>
 <rect width="256" height="256" fill="#242938" rx="60" id="rect1" />
 <g id="surface1">
 <path style=" stroke:none;fill-rule:nonzero;fill:#f2f4ed;fill-opacity:1;" d="M 128 42.914062 C 85.867188 42.914062 51.699219 54.328125 51.699219 68.480469 L 51.699219 89.421875 C 51.699219 103.644531 85.867188 114.988281 128 114.988281 C 170.132812 114.988281 204.265625 103.574219 204.265625 89.421875 L 204.265625 68.480469 C 204.300781 54.328125 170.132812 42.914062 128 42.914062 Z M 128 42.914062 "/>

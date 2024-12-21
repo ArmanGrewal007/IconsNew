@@ -1,5 +1,6 @@
 <svg width="256px" height="268px" viewBox="0 0 256 268" xmlns="http://www.w3.org/2000/svg"
     xmlns:svg="http://www.w3.org/2000/svg">
+    <title>Gentoo</title>
     <rect width="256" height="256" rx="60" fill="#242938" id="rect1" />
     <defs id="defs24">
         <linearGradient id="gentoo1" gradientUnits="userSpaceOnUse" x1="783.9" y1="-313.5" x2="1100" y2="1341"

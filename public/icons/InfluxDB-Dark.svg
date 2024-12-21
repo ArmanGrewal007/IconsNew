@@ -1,5 +1,6 @@
 <svg width="256px" height="256px" viewBox="0 0 256 256" xmlns="http://www.w3.org/2000/svg"
     xmlns:svg="http://www.w3.org/2000/svg">
+    <title>InfluxDB</title>
     <rect width="256" height="256" rx="60" fill="#F2F4ED" id="rect1" />
     <g id="g1" transform="matrix(0.82287805,0,0,0.80455397,22.118644,26.542373)">
         <path

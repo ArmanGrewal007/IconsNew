@@ -1,4 +1,5 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="256" height="256" fill="none" viewBox="0 0 256 256">
+    <title>Apollo</title>
     <rect width="256" height="256" fill="white" rx="60" />
     <path fill="url(#paint0_linear_194_8)"
         d="M140.279 73.0456L113.618 72.9995L76.6763 170.886L100.79 170.928L106.819 154.342L143.194 154.404L136.317 136.038L112.371 135.996L127.28 93.875L156.214 171.023L180.329 171.065L140.279 73.0456Z" />

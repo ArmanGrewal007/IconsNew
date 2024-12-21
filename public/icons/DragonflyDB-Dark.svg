@@ -1,5 +1,6 @@
 <svg width="256px" height="256px" viewBox="0 0 256 256" version="1.1" id="svg32" xmlns="http://www.w3.org/2000/svg"
     xmlns:svg="http://www.w3.org/2000/svg">
+    <title>DragonflyDB</title>
     <rect width="256" height="256" rx="60" fill="#242938" id="rect1" />
     <defs id="defs16">
         <linearGradient id="linear0" gradientUnits="userSpaceOnUse" x1="300.001" y1="0" x2="300.001" y2="146.667"

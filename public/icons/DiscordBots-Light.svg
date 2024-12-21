@@ -1,4 +1,5 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="256" height="256" fill="none" viewBox="0 0 256 256">
+    <title>DiscordBots</title>
     <rect width="256" height="256" fill="#f2f4ed" rx="60" />
     <path fill="#d1d5c5" fill-rule="evenodd"
         d="M149.541 226.539C178.626 226.516 207.754 226.692 236.881 226.539L245.105 181.333H10L19.303 226.539C62.7124 226.255 106.151 226.572 149.541 226.539Z"

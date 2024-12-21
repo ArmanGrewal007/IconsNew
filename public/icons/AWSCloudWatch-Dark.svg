@@ -1,5 +1,6 @@
 <svg width="256px" height="256px" viewBox="0 0 256 256" xmlns="http://www.w3.org/2000/svg"
     xmlns:svg="http://www.w3.org/2000/svg">
+    <title>AWSCloudWatch</title>
     <rect width="256" height="256" fill="#242938" rx="60" id="rect1" />
     <g id="surface1" transform="matrix(0.81956381,0,0,0.79264476,29.27603,8.4571127)">
         <path style="fill:#b5ca9c;fill-opacity:1;fill-rule:nonzero;stroke:none"

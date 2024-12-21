@@ -1,4 +1,5 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="256" height="256" fill="none" viewBox="0 0 256 256">
+    <title>StackOverflow</title>
     <rect width="256" height="256" fill="#242938" rx="60" />
     <path fill="#BCBBBB" d="M183.541 206.378V157.73H205.162V228H43V157.73H64.6216V206.378H183.541Z" />
     <path fill="#F48024"

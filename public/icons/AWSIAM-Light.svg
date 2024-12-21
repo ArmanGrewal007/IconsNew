@@ -1,6 +1,7 @@
 <svg width="256px" height="256px" viewBox="0 0 256 256"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd" xmlns="http://www.w3.org/2000/svg"
    xmlns:svg="http://www.w3.org/2000/svg">
+    <title>AWSIAM</title>
    <rect width="256" height="256" fill="#f2f4ed" rx="60" id="rect1" />
    <g id="surface1" transform="matrix(0.3940678,0,0,0.45096831,75.552594,16.284054)">
       <path style="fill:#3a4728;fill-opacity:1;fill-rule:nonzero;stroke:none"

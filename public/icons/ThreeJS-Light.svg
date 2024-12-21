@@ -1,4 +1,5 @@
 <svg width="256" height="256" viewBox="0 0 256 256" fill="none" xmlns="http://www.w3.org/2000/svg">
+    <title>ThreeJS</title>
 <rect width="256" height="256" rx="60" fill="white"/>
 <path fill-rule="evenodd" clip-rule="evenodd" d="M93.213 222.94L50 48L223.23 97.874L93.213 222.94Z" stroke="black" stroke-width="4" stroke-miterlimit="10" stroke-linejoin="round"/>
 <path fill-rule="evenodd" clip-rule="evenodd" d="M136.583 72.9419L158.174 160.438L71.6071 135.493L136.583 72.9419Z" stroke="black" stroke-width="4" stroke-miterlimit="10" stroke-linejoin="round"/>

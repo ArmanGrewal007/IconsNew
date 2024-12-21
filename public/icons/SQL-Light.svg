@@ -1,4 +1,5 @@
 <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="256px" height="256px" viewBox="0 0 256 256" version="1.1">
+    <title>SQL</title>
 <rect width="256" height="256" fill="#f2f4ed" rx="60" />
 <g id="surface1">
 <path style=" stroke:none;fill-rule:nonzero;fill:#242938;fill-opacity:1;" d="M 192 168 L 192 72 L 176 72 L 176 184 L 240 184 L 240 168 Z M 192 168 "/>

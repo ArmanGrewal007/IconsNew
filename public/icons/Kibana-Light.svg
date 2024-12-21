@@ -1,4 +1,5 @@
 <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="256px" height="256px" viewBox="0 0 256 256" version="1.1">
+    <title>Kibana</title>
     <rect width="256" height="256" fill="#F4F2ED" rx="60" />
 <g id="surface1">
 <path style=" stroke:none;fill-rule:nonzero;fill:rgb(91.372549%,27.843137%,54.509804%);fill-opacity:1;" d="M 62.71875 105.921875 C 86.078125 105.921875 108.160156 112 127.359375 122.238281 L 195.839844 40 L 60.160156 40 L 60.160156 203.199219 L 60.160156 105.921875 Z M 62.71875 105.921875 "/>

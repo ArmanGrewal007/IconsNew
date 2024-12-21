@@ -1,5 +1,6 @@
 <svg width="250px" height="256px" viewBox="0 0 250 255" xmlns="http://www.w3.org/2000/svg"
     xmlns:svg="http://www.w3.org/2000/svg">
+    <title>AWSLambda2</title>
     <g id="surface1">
         <rect width="256" height="256" fill="#f2f4ed" rx="60" id="rect1" />
         <path style="fill:#fa7d11;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.828385"
