@@ -120,7 +120,8 @@ const shortNames = {
     'c++': 'cpp',
     'c#': 'csharp',
     cs: 'csharp',
-    gz: 'gzip'
+    gz: 'gzip',
+    puml: 'plantuml',
 };
 // A list of icons with themes (light/dark)
 const themedIcons = [

@@ -46,7 +46,7 @@ Can specify *light* or *dark*
 
 <table>
     <tr>
-        <th colspan="6" align="center"> 274 icons and counting... </th>
+        <th colspan="6" align="center"> 275 icons and counting... </th>
     </tr>
     <tr>
         <th>Name</th>
@@ -555,237 +555,238 @@ Can specify *light* or *dark*
     <tr>
         <td><code>planetscale</code></td>
         <td><img src="https://icons-theta.vercel.app/icon?i=planetscale" width="48"></td>
+        <td><code>plantuml</code></td>
+        <td><img src="https://icons-theta.vercel.app/icon?i=plantuml" width="48"></td>
         <td><code>podman</code></td>
         <td><img src="https://icons-theta.vercel.app/icon?i=podman" width="48"></td>
-        <td><code>postgresql</code></td>
-        <td><img src="https://icons-theta.vercel.app/icon?i=postgresql" width="48"></td>
     </tr>
     <tr>
+        <td><code>postgresql</code></td>
+        <td><img src="https://icons-theta.vercel.app/icon?i=postgresql" width="48"></td>
         <td><code>postman</code></td>
         <td><img src="https://icons-theta.vercel.app/icon?i=postman" width="48"></td>
         <td><code>powerbi</code></td>
         <td><img src="https://icons-theta.vercel.app/icon?i=powerbi" width="48"></td>
-        <td><code>powershell</code></td>
-        <td><img src="https://icons-theta.vercel.app/icon?i=powershell" width="48"></td>
     </tr>
     <tr>
+        <td><code>powershell</code></td>
+        <td><img src="https://icons-theta.vercel.app/icon?i=powershell" width="48"></td>
         <td><code>premiere</code></td>
         <td><img src="https://icons-theta.vercel.app/icon?i=premiere" width="48"></td>
         <td><code>prisma</code></td>
         <td><img src="https://icons-theta.vercel.app/icon?i=prisma" width="48"></td>
-        <td><code>problemsolving</code></td>
-        <td><img src="https://icons-theta.vercel.app/icon?i=problemsolving" width="48"></td>
     </tr>
     <tr>
+        <td><code>problemsolving</code></td>
+        <td><img src="https://icons-theta.vercel.app/icon?i=problemsolving" width="48"></td>
         <td><code>processing</code></td>
         <td><img src="https://icons-theta.vercel.app/icon?i=processing" width="48"></td>
         <td><code>prometheus</code></td>
         <td><img src="https://icons-theta.vercel.app/icon?i=prometheus" width="48"></td>
-        <td><code>propositionallogic</code></td>
-        <td><img src="https://icons-theta.vercel.app/icon?i=propositionallogic" width="48"></td>
     </tr>
     <tr>
+        <td><code>propositionallogic</code></td>
+        <td><img src="https://icons-theta.vercel.app/icon?i=propositionallogic" width="48"></td>
         <td><code>pug</code></td>
         <td><img src="https://icons-theta.vercel.app/icon?i=pug" width="48"></td>
         <td><code>python</code></td>
         <td><img src="https://icons-theta.vercel.app/icon?i=python" width="48"></td>
-        <td><code>pythontkinter</code></td>
-        <td><img src="https://icons-theta.vercel.app/icon?i=pythontkinter" width="48"></td>
     </tr>
     <tr>
+        <td><code>pythontkinter</code></td>
+        <td><img src="https://icons-theta.vercel.app/icon?i=pythontkinter" width="48"></td>
         <td><code>pytorch</code></td>
         <td><img src="https://icons-theta.vercel.app/icon?i=pytorch" width="48"></td>
         <td><code>qt</code></td>
         <td><img src="https://icons-theta.vercel.app/icon?i=qt" width="48"></td>
-        <td><code>r</code></td>
-        <td><img src="https://icons-theta.vercel.app/icon?i=r" width="48"></td>
     </tr>
     <tr>
+        <td><code>r</code></td>
+        <td><img src="https://icons-theta.vercel.app/icon?i=r" width="48"></td>
         <td><code>rabbitmq</code></td>
         <td><img src="https://icons-theta.vercel.app/icon?i=rabbitmq" width="48"></td>
         <td><code>rails</code></td>
         <td><img src="https://icons-theta.vercel.app/icon?i=rails" width="48"></td>
-        <td><code>raspberrypi</code></td>
-        <td><img src="https://icons-theta.vercel.app/icon?i=raspberrypi" width="48"></td>
     </tr>
     <tr>
+        <td><code>raspberrypi</code></td>
+        <td><img src="https://icons-theta.vercel.app/icon?i=raspberrypi" width="48"></td>
         <td><code>react</code></td>
         <td><img src="https://icons-theta.vercel.app/icon?i=react" width="48"></td>
         <td><code>reactivex</code></td>
         <td><img src="https://icons-theta.vercel.app/icon?i=reactivex" width="48"></td>
-        <td><code>redis</code></td>
-        <td><img src="https://icons-theta.vercel.app/icon?i=redis" width="48"></td>
     </tr>
     <tr>
+        <td><code>redis</code></td>
+        <td><img src="https://icons-theta.vercel.app/icon?i=redis" width="48"></td>
         <td><code>redux</code></td>
         <td><img src="https://icons-theta.vercel.app/icon?i=redux" width="48"></td>
         <td><code>regex</code></td>
         <td><img src="https://icons-theta.vercel.app/icon?i=regex" width="48"></td>
-        <td><code>remix</code></td>
-        <td><img src="https://icons-theta.vercel.app/icon?i=remix" width="48"></td>
     </tr>
     <tr>
+        <td><code>remix</code></td>
+        <td><img src="https://icons-theta.vercel.app/icon?i=remix" width="48"></td>
         <td><code>replit</code></td>
         <td><img src="https://icons-theta.vercel.app/icon?i=replit" width="48"></td>
         <td><code>rhel</code></td>
         <td><img src="https://icons-theta.vercel.app/icon?i=rhel" width="48"></td>
-        <td><code>rocket</code></td>
-        <td><img src="https://icons-theta.vercel.app/icon?i=rocket" width="48"></td>
     </tr>
     <tr>
+        <td><code>rocket</code></td>
+        <td><img src="https://icons-theta.vercel.app/icon?i=rocket" width="48"></td>
         <td><code>rollupjs</code></td>
         <td><img src="https://icons-theta.vercel.app/icon?i=rollupjs" width="48"></td>
         <td><code>ros</code></td>
         <td><img src="https://icons-theta.vercel.app/icon?i=ros" width="48"></td>
-        <td><code>ruby</code></td>
-        <td><img src="https://icons-theta.vercel.app/icon?i=ruby" width="48"></td>
     </tr>
     <tr>
+        <td><code>ruby</code></td>
+        <td><img src="https://icons-theta.vercel.app/icon?i=ruby" width="48"></td>
         <td><code>rust</code></td>
         <td><img src="https://icons-theta.vercel.app/icon?i=rust" width="48"></td>
         <td><code>sass</code></td>
         <td><img src="https://icons-theta.vercel.app/icon?i=sass" width="48"></td>
-        <td><code>scala</code></td>
-        <td><img src="https://icons-theta.vercel.app/icon?i=scala" width="48"></td>
     </tr>
     <tr>
+        <td><code>scala</code></td>
+        <td><img src="https://icons-theta.vercel.app/icon?i=scala" width="48"></td>
         <td><code>scylladb</code></td>
         <td><img src="https://icons-theta.vercel.app/icon?i=scylladb" width="48"></td>
         <td><code>selenium</code></td>
         <td><img src="https://icons-theta.vercel.app/icon?i=selenium" width="48"></td>
-        <td><code>sentry</code></td>
-        <td><img src="https://icons-theta.vercel.app/icon?i=sentry" width="48"></td>
     </tr>
     <tr>
+        <td><code>sentry</code></td>
+        <td><img src="https://icons-theta.vercel.app/icon?i=sentry" width="48"></td>
         <td><code>sequelize</code></td>
         <td><img src="https://icons-theta.vercel.app/icon?i=sequelize" width="48"></td>
         <td><code>sikhism</code></td>
         <td><img src="https://icons-theta.vercel.app/icon?i=sikhism" width="48"></td>
-        <td><code>sketchup</code></td>
-        <td><img src="https://icons-theta.vercel.app/icon?i=sketchup" width="48"></td>
     </tr>
     <tr>
+        <td><code>sketchup</code></td>
+        <td><img src="https://icons-theta.vercel.app/icon?i=sketchup" width="48"></td>
         <td><code>snowflakedb</code></td>
         <td><img src="https://icons-theta.vercel.app/icon?i=snowflakedb" width="48"></td>
         <td><code>socialstudies</code></td>
         <td><img src="https://icons-theta.vercel.app/icon?i=socialstudies" width="48"></td>
-        <td><code>solidity</code></td>
-        <td><img src="https://icons-theta.vercel.app/icon?i=solidity" width="48"></td>
     </tr>
     <tr>
+        <td><code>solidity</code></td>
+        <td><img src="https://icons-theta.vercel.app/icon?i=solidity" width="48"></td>
         <td><code>solidjs</code></td>
         <td><img src="https://icons-theta.vercel.app/icon?i=solidjs" width="48"></td>
         <td><code>spellingbee</code></td>
         <td><img src="https://icons-theta.vercel.app/icon?i=spellingbee" width="48"></td>
-        <td><code>splunk</code></td>
-        <td><img src="https://icons-theta.vercel.app/icon?i=splunk" width="48"></td>
     </tr>
     <tr>
+        <td><code>splunk</code></td>
+        <td><img src="https://icons-theta.vercel.app/icon?i=splunk" width="48"></td>
         <td><code>spring</code></td>
         <td><img src="https://icons-theta.vercel.app/icon?i=spring" width="48"></td>
         <td><code>sql</code></td>
         <td><img src="https://icons-theta.vercel.app/icon?i=sql" width="48"></td>
-        <td><code>sqlite</code></td>
-        <td><img src="https://icons-theta.vercel.app/icon?i=sqlite" width="48"></td>
     </tr>
     <tr>
+        <td><code>sqlite</code></td>
+        <td><img src="https://icons-theta.vercel.app/icon?i=sqlite" width="48"></td>
         <td><code>stackoverflow</code></td>
         <td><img src="https://icons-theta.vercel.app/icon?i=stackoverflow" width="48"></td>
         <td><code>styledcomponents</code></td>
         <td><img src="https://icons-theta.vercel.app/icon?i=styledcomponents" width="48"></td>
-        <td><code>supabase</code></td>
-        <td><img src="https://icons-theta.vercel.app/icon?i=supabase" width="48"></td>
     </tr>
     <tr>
+        <td><code>supabase</code></td>
+        <td><img src="https://icons-theta.vercel.app/icon?i=supabase" width="48"></td>
         <td><code>svelte</code></td>
         <td><img src="https://icons-theta.vercel.app/icon?i=svelte" width="48"></td>
         <td><code>svg</code></td>
         <td><img src="https://icons-theta.vercel.app/icon?i=svg" width="48"></td>
-        <td><code>swift</code></td>
-        <td><img src="https://icons-theta.vercel.app/icon?i=swift" width="48"></td>
     </tr>
     <tr>
+        <td><code>swift</code></td>
+        <td><img src="https://icons-theta.vercel.app/icon?i=swift" width="48"></td>
         <td><code>symfony</code></td>
         <td><img src="https://icons-theta.vercel.app/icon?i=symfony" width="48"></td>
         <td><code>systemverilog</code></td>
         <td><img src="https://icons-theta.vercel.app/icon?i=systemverilog" width="48"></td>
-        <td><code>tableau</code></td>
-        <td><img src="https://icons-theta.vercel.app/icon?i=tableau" width="48"></td>
     </tr>
     <tr>
+        <td><code>tableau</code></td>
+        <td><img src="https://icons-theta.vercel.app/icon?i=tableau" width="48"></td>
         <td><code>tailwindcss</code></td>
         <td><img src="https://icons-theta.vercel.app/icon?i=tailwindcss" width="48"></td>
         <td><code>tauri</code></td>
         <td><img src="https://icons-theta.vercel.app/icon?i=tauri" width="48"></td>
-        <td><code>telegraf</code></td>
-        <td><img src="https://icons-theta.vercel.app/icon?i=telegraf" width="48"></td>
     </tr>
     <tr>
+        <td><code>telegraf</code></td>
+        <td><img src="https://icons-theta.vercel.app/icon?i=telegraf" width="48"></td>
         <td><code>tensorflow</code></td>
         <td><img src="https://icons-theta.vercel.app/icon?i=tensorflow" width="48"></td>
         <td><code>terraform</code></td>
         <td><img src="https://icons-theta.vercel.app/icon?i=terraform" width="48"></td>
-        <td><code>threejs</code></td>
-        <td><img src="https://icons-theta.vercel.app/icon?i=threejs" width="48"></td>
     </tr>
     <tr>
+        <td><code>threejs</code></td>
+        <td><img src="https://icons-theta.vercel.app/icon?i=threejs" width="48"></td>
         <td><code>travisci</code></td>
         <td><img src="https://icons-theta.vercel.app/icon?i=travisci" width="48"></td>
         <td><code>twitter</code></td>
         <td><img src="https://icons-theta.vercel.app/icon?i=twitter" width="48"></td>
-        <td><code>typescript</code></td>
-        <td><img src="https://icons-theta.vercel.app/icon?i=typescript" width="48"></td>
     </tr>
     <tr>
+        <td><code>typescript</code></td>
+        <td><img src="https://icons-theta.vercel.app/icon?i=typescript" width="48"></td>
         <td><code>ubuntu</code></td>
         <td><img src="https://icons-theta.vercel.app/icon?i=ubuntu" width="48"></td>
         <td><code>unity</code></td>
         <td><img src="https://icons-theta.vercel.app/icon?i=unity" width="48"></td>
-        <td><code>unrealengine</code></td>
-        <td><img src="https://icons-theta.vercel.app/icon?i=unrealengine" width="48"></td>
     </tr>
     <tr>
+        <td><code>unrealengine</code></td>
+        <td><img src="https://icons-theta.vercel.app/icon?i=unrealengine" width="48"></td>
         <td><code>v</code></td>
         <td><img src="https://icons-theta.vercel.app/icon?i=v" width="48"></td>
         <td><code>vala</code></td>
         <td><img src="https://icons-theta.vercel.app/icon?i=vala" width="48"></td>
-        <td><code>vercel</code></td>
-        <td><img src="https://icons-theta.vercel.app/icon?i=vercel" width="48"></td>
     </tr>
     <tr>
+        <td><code>vercel</code></td>
+        <td><img src="https://icons-theta.vercel.app/icon?i=vercel" width="48"></td>
         <td><code>vim</code></td>
         <td><img src="https://icons-theta.vercel.app/icon?i=vim" width="48"></td>
         <td><code>visualstudio</code></td>
         <td><img src="https://icons-theta.vercel.app/icon?i=visualstudio" width="48"></td>
-        <td><code>vite</code></td>
-        <td><img src="https://icons-theta.vercel.app/icon?i=vite" width="48"></td>
     </tr>
     <tr>
+        <td><code>vite</code></td>
+        <td><img src="https://icons-theta.vercel.app/icon?i=vite" width="48"></td>
         <td><code>vscode</code></td>
         <td><img src="https://icons-theta.vercel.app/icon?i=vscode" width="48"></td>
         <td><code>vuejs</code></td>
         <td><img src="https://icons-theta.vercel.app/icon?i=vuejs" width="48"></td>
-        <td><code>webassembly</code></td>
-        <td><img src="https://icons-theta.vercel.app/icon?i=webassembly" width="48"></td>
     </tr>
     <tr>
+        <td><code>webassembly</code></td>
+        <td><img src="https://icons-theta.vercel.app/icon?i=webassembly" width="48"></td>
         <td><code>webflow</code></td>
         <td><img src="https://icons-theta.vercel.app/icon?i=webflow" width="48"></td>
         <td><code>webpack</code></td>
         <td><img src="https://icons-theta.vercel.app/icon?i=webpack" width="48"></td>
-        <td><code>windicss</code></td>
-        <td><img src="https://icons-theta.vercel.app/icon?i=windicss" width="48"></td>
     </tr>
     <tr>
+        <td><code>windicss</code></td>
+        <td><img src="https://icons-theta.vercel.app/icon?i=windicss" width="48"></td>
         <td><code>wordpress</code></td>
         <td><img src="https://icons-theta.vercel.app/icon?i=wordpress" width="48"></td>
         <td><code>workers</code></td>
         <td><img src="https://icons-theta.vercel.app/icon?i=workers" width="48"></td>
-        <td><code>xd</code></td>
-        <td><img src="https://icons-theta.vercel.app/icon?i=xd" width="48"></td>
     </tr>
     <tr>
-        <td><code>zig</code></td>
+        <td><code>xd</code></td>
+        <td><img src="https://icons-theta.vercel.app/icon?i=xd" width="48"> </td><code><td>zig</code></td>
         <td><img src="https://icons-theta.vercel.app/icon?i=zig" width="48"></td>
     </tr>
 </table>
